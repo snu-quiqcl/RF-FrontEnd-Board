@@ -1,0 +1,43 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (SoftwareVersion "24.100000")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (File ".\n2530-6002-rb_3m.olb"
+      (Type "Schematic Library"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\n2530-6002-rb_3m.olb")
+      (Select "Design Resources" ".\n2530-6002-rb_3m.olb" "N2530-6002-RB_3M"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 782"))
+      (Tab 0))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 5 1461 24 823"))
+      (Path "C:\JEONGHYUN\LAB\RFSOC_FRONTEND3\N2530-6002-RB_3M.OLB")
+      (Package "N2530-6002-RB_3M")
+      (PartType "1"))))

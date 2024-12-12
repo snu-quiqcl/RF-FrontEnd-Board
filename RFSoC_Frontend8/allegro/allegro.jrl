@@ -1,0 +1,33 @@
+\t (00:00:03) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Thu Dec 12 19:38:54 2024
+\t (00:00:03)         Host=LAPTOP-ETOV1IS0 User=alexi Pid=41684 CPUs=20
+\t (00:00:03) CmdLine= c:\cadence\orcadx_24.1\tools\bin\allegro.exe C:\Jeonghyun\Lab\RFSoC_Frontend8\allegro\rfmc_frontend_v1_00.brd
+\t (00:00:03) 
+\t (00:00:03) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "rfmc_frontend_v1_00"
+\d (00:00:05) Design opened: C:/Jeonghyun/Lab/RFSoC_Frontend8/allegro/rfmc_frontend_v1_00.brd
+\i (00:00:06) trapsize 3160
+\i (00:00:06) trapsize 3236
+\i (00:00:06) trapsize 3160
+\i (00:00:06) trapsize 2571
+\i (00:00:06) trapsize 2571
+\t (00:00:06) > Sending response DoneOpenBoard
+\i (00:00:06) generaledit 
+\i (00:00:13) plctxt out 
+\i (00:00:17) setwindow form.plctxt
+\i (00:00:17) FORM plctxt execute  
+\t (00:00:17) Starting Place symbols by text file...
+\t (00:00:18) SpawnProcessExit background process completed status = 0
+
+\i (00:00:20) FORM plctxt cancel  
+\i (00:00:20) setwindow pcb
+\i (00:00:20) generaledit 
+\i (00:00:21) exit 
+\t (00:00:21) Lic Summary:
+[19:39:12.435712] Cdslmd servers:C:\Users\alexi\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
+[19:39:12.964000] Feature usage summary:
+[19:39:12.964000] OrCAD_X_PCB_Professional_Plus
+[19:39:12.964000] OrCAD_X_Professional_Plus
+
+\t (00:00:21)     Journal end - Thu Dec 12 19:39:12 2024

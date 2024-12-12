@@ -1,0 +1,18 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : rfmc_frontend_v1_00.brd                       )
+(    Software Version : 24.1P001                                      )
+(    Date/Time        : Thu Dec 12 19:35:47 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ERROR: in ARC SEGMENT end_points = (1472.05 3245.35) - (1472.06 3245.35)
+  class = ETCH
+  subclass = L6 
+  ERROR(SPMHUT-144): Illegal arc specification.
+
+0 warnings, 1 errors detected, 0 errors could be fixed.

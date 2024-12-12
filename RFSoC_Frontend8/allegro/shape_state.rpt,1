@@ -1,0 +1,21 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Dynamic Status Report                                      )
+(                                                                     )
+(    Drawing          : rfmc_frontend_v1_00.brd                       )
+(    Software Version : 24.1P001                                      )
+(    Date/Time        : Tue Nov 19 20:04:29 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Dynamic shapes out of date: 3 out of 30
+  Current fill mode         : SMOOTH
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+       State: No Etch      Point on shape: (4105.00 5970.00)  Net: N336420
+       State: No Etch      Point on shape: (3380.00 5970.00)  Net: N343765
+       State: No Etch      Point on shape: (4100.00 5950.00)  Net: N343605
