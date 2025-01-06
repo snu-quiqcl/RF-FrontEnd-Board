@@ -1,0 +1,354 @@
+(ExpressProject "rfmc_frontend_v1_00"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "24.1 P001 (4234998)  [9/4/2024]-[01/06/25]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\lpam-40-010-x-08-x-k-tr.olb"
+        (Type "Schematic Library"))
+      (File ".\jso-0415-01.olb"
+        (Type "Schematic Library"))
+      (File ".\sn74lxc1t45dryr.olb"
+        (Type "Schematic Library"))
+      (File ".\pin3boomele.olb"
+        (Type "Schematic Library"))
+      (File ".\mwsa0603s-3r3mt.olb"
+        (Type "Schematic Library"))
+      (File ".\ms230-10f.olb"
+        (Type "Schematic Library"))
+      (File ".\0402wgf3162tce.olb"
+        (Type "Schematic Library"))
+      (File ".\frc0402j104.olb"
+        (Type "Schematic Library"))
+      (File ".\0402wgf3092tce.olb"
+        (Type "Schematic Library"))
+      (File ".\mwsa0603s-2r2mt.olb"
+        (Type "Schematic Library"))
+      (File ".\2541wv-2x15p.olb"
+        (Type "Schematic Library"))
+      (File ".\hx pz2_54-2x6p zz.olb"
+        (Type "Schematic Library"))
+      (File ".\mh_250hn250.olb"
+        (Type "Schematic Library"))
+      (File ".\mh_250h150.olb"
+        (Type "Schematic Library"))
+      (File ".\grm158r61a226me15d_kelvin.olb"
+        (Type "Schematic Library"))
+      (File ".\grm31cr61e226ke15l_kelvin.olb"
+        (Type "Schematic Library"))
+      (File ".\ms230-10c.olb"
+        (Type "Schematic Library")))
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "61215")
+    (NoModify)
+    (File ".\rfmc_frontend_v1_00.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "0")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_View_Output "TRUE")
+    (DRC_View_Output_Type "2")
+    (DRC_Preserved_Waived "FALSE")
+    (RUN_Online_Rules "TRUE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Check_Single_Node_Nets_Online "TRUE")
+    (DRC_Check_No_Driving_Source_Online "FALSE")
+    (DRC_Check_Duplicate_NetNames_Online "TRUE")
+    (DRC_Check_Off-Page_Connectors_Online "FALSE")
+    (DRC_Check_Ports_Online "FALSE")
+    (DRC_Check_Unconnected_Nets_Online "FALSE")
+    (DRC_Check_Floating_Pins_Online "FALSE")
+    (DRC_Run_Electrical_Reports "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Run_Physical_Rules "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility_Online "FALSE")
+    (DRC_Check_PCB_Footprint_Property_Online "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync_Online "FALSE")
+    (DRC_Check_Incorrect_PinGroup_Assignment_Online "TRUE")
+    (DRC_Check_Missing_Pin_Numbers_Online "TRUE")
+    (DRC_Check_Device_With_No_Pins_Online "FALSE")
+    (DRC_Check_Power_Ground_Short_Online "FALSE")
+    (DRC_Check_Name_Prop_For_HierBlocks_Online "FALSE")
+    (DRC_Run_Physical_Reports "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Run_Simulation_Rules "TRUE")
+    (DRC_Check_Pspice_Model_Lib_Path_Online "FALSE")
+    (DRC_Run_Custom_Rules "FALSE")
+    (DRC_Report_File "C:\JEONGHYUN\LAB\RFSOC_FRONTEND3\RFMC_FRONTEND_V1_00.DRC")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" ".\allegro\rfmc_frontend_v1_00.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "255")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (BOM_Scope "0")
+    (BOM_Mode "1")
+    (BOM_Report_File "C:\JEONGHYUN\LAB\RFSOC_FRONTEND6\RFMC_FRONTEND_V1_00.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "{Item}\t{Quantity}\t{Reference}\t{Source Package}")
+    (BOM_Header "Item\tQuantity\tReference\tPart")
+    (BOM_Include_File
+       "C:\JEONGHYUN\LAB\RFSOC_FRONTEND6\RFMC_FRONTEND_V1_00.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "TRUE")
+    (BOM_View_Output "FALSE"))
+  (Folder "Layout"
+    (File ".\allegro\rfmc_frontend_v1_00.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\rfmc_frontend_v1_00.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1")))
+  (Folder "Outputs"
+    (File ".\rfmc_frontend_v1_00.drc"
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\rfmc_frontend_v1_00.bom"
+      (Type "Report"))
+    (File "..\rfsoc_frontend6\rfmc_frontend_v1_00.bom"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs"
+    (File ".\allegro\netlist.log"
+      (Type "Log File")
+      (LogFile "c:\jeonghyun\lab\rfsoc_frontend17\allegro\netlist.log"))
+    (File ".\allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile "c:\jeonghyun\lab\rfsoc_frontend17\allegro\netrev.lst"))
+    (File ".\allegro\eco.txt"
+      (Type "Log File")
+      (LogFile "c:\jeonghyun\lab\rfsoc_frontend17\allegro\eco.txt"))
+    (File ".\allegro\genfeed.log"
+      (Type "Log File")
+      (LogFile "c:\jeonghyun\lab\rfsoc_frontend17\allegro\genfeed.log")))
+  (PartMRUSelector
+    (MS230-10C
+      (FullPartName "MS230-10C.Normal")
+      (LibraryName "C:\JEONGHYUN\LAB\RFSOC_FRONTEND17\MS230-10C.OLB")
+      (DeviceIndex "0"))
+    (ERJ-2RKF1912X
+      (FullPartName "ERJ-2RKF1912X.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1735022714\ERJ-2RKF1912X\CAPTURE\ERJ-2RKF1912X.OLB")
+      (DeviceIndex "0"))
+    (ERJ-2RHD1072X
+      (FullPartName "ERJ-2RHD1072X.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1735022445\ERJ-2RHD1072X\CAPTURE\ERJ-2RHD1072X.OLB")
+      (DeviceIndex "0"))
+    (GRM155R71H102KA01D
+      (FullPartName "GRM155R71H102KA01D.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1735021924\GRM155R71H102KA01D\CAPTURE\GRM155R71H102KA01D.OLB")
+      (DeviceIndex "0"))
+    (GRM155R71H103KA88D
+      (FullPartName "GRM155R71H103KA88D.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1735021811\GRM155R71H103KA88D\CAPTURE\GRM155R71H103KA88D.OLB")
+      (DeviceIndex "0"))
+    (CL21A475KBQNNNE
+      (FullPartName "CL21A475KBQNNNE.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1735009073\CL21A475KBQNNNE\CAPTURE\CL21A475KBQNNNE.OLB")
+      (DeviceIndex "0"))
+    (ADM7172ACPZ-1.8-R7
+      (FullPartName "ADM7172ACPZ-1.8-R7.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1735008704\ADM7172ACPZ-1.8-R7\CAPTURE\ADM7172ACPZ-1.8-R7.OLB")
+      (DeviceIndex "0"))
+    (ADM7172ACPZ-3.3-R7
+      (FullPartName "ADM7172ACPZ-3.3-R7.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1735008527\ADM7172ACPZ-3.3-R7\CAPTURE\ADM7172ACPZ-3.3-R7.OLB")
+      (DeviceIndex "0"))
+    (LTM4622AIY#PBF
+      (FullPartName "LTM4622AIY#PBF.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1735008262\LTM4622AIY#PBF\CAPTURE\LTM4622AIY#PBF.OLB")
+      (DeviceIndex "0"))
+    (GRM31CR61E226KE15L
+      (FullPartName "GRM31CR61E226KE15L.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1734863838\GRM31CR61E226KE15L\CAPTURE\GRM31CR61E226KE15L.OLB")
+      (DeviceIndex "0"))
+    (GRM158R61A226ME15D_KELVIN
+      (FullPartName "GRM158R61A226ME15D_KELVIN.Normal")
+      (LibraryName
+         "C:\JEONGHYUN\LAB\RFSOC_FRONTEND10\GRM158R61A226ME15D_KELVIN.OLB")
+      (DeviceIndex "0"))
+    (GRM21BR61A476ME15K
+      (FullPartName "GRM21BR61A476ME15K.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1734758740\GRM21BR61A476ME15K\CAPTURE\GRM21BR61A476ME15K.OLB")
+      (DeviceIndex "0"))
+    (CL05A475MO5NUNC
+      (FullPartName "CL05A475MO5NUNC.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1733912374\CL05A475MO5NUNC\CAPTURE\CL05A475MO5NUNC.OLB")
+      (DeviceIndex "0"))
+    (GRM155R61A106ME44D
+      (FullPartName "GRM155R61A106ME44D.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1733911427\GRM155R61A106ME44D\CAPTURE\GRM155R61A106ME44D.OLB")
+      (DeviceIndex "0"))
+    (GRM158R61A226ME15D
+      (FullPartName "GRM158R61A226ME15D.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1733911263\GRM158R61A226ME15D\CAPTURE\GRM158R61A226ME15D.OLB")
+      (DeviceIndex "0"))
+    (RC0805FR-100RL
+      (FullPartName "RC0805FR-100RL.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1733910209\RC0805FR-100RL\CAPTURE\RC0805FR-100RL.OLB")
+      (DeviceIndex "0"))
+    (CL05A105KP5NNNC
+      (FullPartName "CL05A105KP5NNNC.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1733898025\CL05A105KP5NNNC\CAPTURE\CL05A105KP5NNNC.OLB")
+      (DeviceIndex "0"))
+    (ERJ-2RKF3322X
+      (FullPartName "ERJ-2RKF3322X.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1733895426\ERJ-2RKF3322X\CAPTURE\ERJ-2RKF3322X.OLB")
+      (DeviceIndex "0"))
+    (GRM155R61H105KE05D
+      (FullPartName "GRM155R61H105KE05D.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1733895041\GRM155R61H105KE05D\CAPTURE\GRM155R61H105KE05D.OLB")
+      (DeviceIndex "0"))
+    (MWSA0603S-3R3MT
+      (FullPartName "MWSA0603S-3R3MT.Normal")
+      (LibraryName "C:\JEONGHYUN\LAB\RFSOC_FRONTEND8\MWSA0603S-3R3MT.OLB")
+      (DeviceIndex "0"))
+    (ERJ2RKF1802X
+      (FullPartName "ERJ2RKF1802X.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1733739453\ERJ2RKF1802X\CAPTURE\ERJ2RKF1802X.OLB")
+      (DeviceIndex "0"))
+    (CL21A475KAQNNNE
+      (FullPartName "CL21A475KAQNNNE.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1733738805\CL21A475KAQNNNE\CAPTURE\CL21A475KAQNNNE.OLB")
+      (DeviceIndex "0"))
+    (ERJ2RKF2003X
+      (FullPartName "ERJ2RKF2003X.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1733737841\ERJ2RKF2003X\CAPTURE\ERJ2RKF2003X.OLB")
+      (DeviceIndex "0"))
+    (GRM21BR61H106KE43L
+      (FullPartName "GRM21BR61H106KE43L.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1733737269\GRM21BR61H106KE43L\CAPTURE\GRM21BR61H106KE43L.OLB")
+      (DeviceIndex "0"))
+    (CL21A226MAQNNNE
+      (FullPartName "CL21A226MAQNNNE.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1733733834\CL21A226MAQNNNE\CAPTURE\CL21A226MAQNNNE.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\rfmc_frontend_v1_00.dsn")
+      (Path "Design Resources" ".\rfmc_frontend_v1_00.dsn" "TOP")
+      (Path "Design Resources" ".\rfmc_frontend_v1_00.dsn" "ANALOG")
+      (Path "Design Resources" ".\rfmc_frontend_v1_00.dsn" "DIGITAL")
+      (Path "Design Resources" ".\rfmc_frontend_v1_00.dsn" "SPI")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" ".\ms230-10c.olb")
+      (Select "Design Resources" ".\rfmc_frontend_v1_00.dsn" "ANALOG" "CHANNEL"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 1234 0 685"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1243 24 713")
+        (Scroll "-118 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\JEONGHYUN\LAB\RFSOC_FRONTEND17\RFMC_FRONTEND_V1_00.DSN")
+      (Schematic "TOP")
+      (Page "ANALOG_TOP"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1243 24 713")
+        (Scroll "-118 0")
+        (Zoom "100")
+        (Occurrence "/ANALOG1"))
+      (Path "C:\JEONGHYUN\LAB\RFSOC_FRONTEND17\RFMC_FRONTEND_V1_00.DSN")
+      (Schematic "ANALOG")
+      (Page "CHANNEL")))
+  (MPSSessionName "alexi")
+  (ISPCBBASICLICENSE "false"))

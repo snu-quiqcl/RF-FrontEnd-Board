@@ -1,0 +1,24 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : rfmc_frontend_v1_00.brd                       )
+(    Software Version : 24.1P001                                      )
+(    Date/Time        : Mon Jan  6 11:33:53 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 7
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+	Point on shape: (2511.44 6129.74)  Net: GND
+	Point on shape: (2111.44 6124.74)  Net: GND
+	Point on shape: (1711.44 6144.74)  Net: GND
+	Point on shape: (2719.31 -118.76)  Net: GND
+	Point on shape: (2319.31 -118.76)  Net: GND
+	Point on shape: (1919.31 -135.14)  Net: GND
+	Point on shape: (1912.81 6156.37)  Net: GND

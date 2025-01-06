@@ -1,0 +1,1539 @@
+\t (00:00:03) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Mon Jan  6 14:33:42 2025
+\t (00:00:03)         Host=LAPTOP-ETOV1IS0 User=alexi Pid=28224 CPUs=20
+\t (00:00:03) CmdLine= c:\cadence\orcadx_24.1\tools\bin\allegro.exe C:\Jeonghyun\Lab\RFSoC_Frontend17\allegro\rfmc_frontend_v1_00.brd
+\t (00:00:03) 
+\t (00:00:03) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "rfmc_frontend_v1_00"
+\d (00:00:06) Design opened: C:/Jeonghyun/Lab/RFSoC_Frontend17/allegro/rfmc_frontend_v1_00.brd
+\i (00:00:07) trapsize 3907
+\i (00:00:08) trapsize 4001
+\i (00:00:08) trapsize 3907
+\i (00:00:09) trapsize 3060
+\i (00:00:09) trapsize 3060
+\t (00:00:09) > Sending response DoneOpenBoard
+\i (00:00:10) generaledit 
+\i (00:00:18) prepopup 6827.21 1068.75
+\i (00:00:19) roam start
+\i (00:00:19) roam y -16
+\i (00:00:19) roam x 304
+\i (00:00:19) roam y -192
+\i (00:00:19) roam x 192
+\i (00:00:19) roam y -80
+\i (00:00:19) roam x 64
+\i (00:00:19) roam y -32
+\i (00:00:19) roam x 32
+\i (00:00:19) roam x 16
+\i (00:00:19) roam y -16
+\i (00:00:19) roam x 16
+\i (00:00:19) roam y -16
+\i (00:00:19) roam end
+\i (00:00:19) roam start
+\i (00:00:19) roam x -16
+\i (00:00:19) roam x -192
+\i (00:00:19) roam y 80
+\i (00:00:19) roam x -272
+\i (00:00:19) roam y 96
+\i (00:00:19) roam end
+\i (00:00:20) roam start
+\i (00:00:20) roam x -16
+\i (00:00:20) roam x -432
+\i (00:00:20) roam y 160
+\i (00:00:20) roam x -464
+\i (00:00:20) roam y 208
+\i (00:00:20) roam y 192
+\i (00:00:20) roam y 96
+\i (00:00:20) roam y 16
+\i (00:00:21) roam end
+\i (00:00:21) zoom in 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom in 2041.75 -399.93
+\i (00:00:21) trapsize 1530
+\i (00:00:21) zoom in 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom in 1937.72 -357.10
+\i (00:00:21) trapsize 765
+\i (00:00:21) zoom in 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom in 1891.83 -343.33
+\i (00:00:21) trapsize 382
+\i (00:00:21) zoom in 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom in 1891.07 -341.03
+\i (00:00:21) trapsize 191
+\i (00:00:22) roam start
+\i (00:00:22) roam y -16
+\i (00:00:22) roam y -80
+\i (00:00:22) roam y -64
+\i (00:00:22) roam y -144
+\i (00:00:22) roam y -64
+\i (00:00:23) roam end
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in 1946.14 -95.13
+\i (00:00:23) trapsize 96
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out 2033.15 -227.46
+\i (00:00:37) trapsize 191
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out 2033.16 -227.47
+\i (00:00:37) trapsize 382
+\i (00:00:38) zoom in 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 2033.16 -227.47
+\i (00:00:38) trapsize 191
+\i (00:00:38) zoom in 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 2033.16 -227.47
+\i (00:00:38) trapsize 96
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out 2033.16 -227.46
+\i (00:00:38) trapsize 191
+\i (00:00:39) roam start
+\i (00:00:39) roam x 16
+\i (00:00:39) roam x 112
+\i (00:00:39) roam x 352
+\i (00:00:39) roam y -16
+\i (00:00:39) roam x 160
+\i (00:00:39) roam x 144
+\i (00:00:39) roam x 128
+\i (00:00:39) roam y -16
+\i (00:00:40) roam x 64
+\i (00:00:40) roam x 80
+\i (00:00:40) roam end
+\i (00:00:48) zoom in 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in 2389.68 -103.59
+\i (00:00:48) trapsize 96
+\i (00:00:48) zoom in 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in 2387.01 -101.86
+\i (00:00:48) trapsize 48
+\i (00:00:49) zoom out 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom out 2387.01 -101.86
+\i (00:00:49) trapsize 96
+\i (00:01:19) zoom out 1 
+\i (00:01:19) setwindow pcb
+\i (00:01:19) zoom out 2390.08 -116.39
+\i (00:01:19) trapsize 191
+\i (00:01:19) zoom out 1 
+\i (00:01:19) setwindow pcb
+\i (00:01:19) zoom out 2390.07 -116.38
+\i (00:01:19) trapsize 382
+\i (00:01:19) zoom out 1 
+\i (00:01:19) setwindow pcb
+\i (00:01:19) zoom out 2389.31 -115.62
+\i (00:01:19) trapsize 765
+\i (00:06:09) zoom in 1 
+\t (00:06:09) [14:39:47.321712] Periodic Lic check successful
+[14:39:47.846000] Feature usage summary:
+[14:39:47.846000] OrCAD_X_PCB_Professional_Plus
+[14:39:47.846000] OrCAD_X_Professional_Plus
+
+\i (00:06:09) setwindow pcb
+\i (00:06:09) zoom in 1561.65 -43.72
+\i (00:06:09) trapsize 382
+\i (00:06:09) zoom in 1 
+\i (00:06:09) setwindow pcb
+\i (00:06:09) zoom in 1554.77 -44.49
+\i (00:06:09) trapsize 191
+\i (00:06:09) zoom in 1 
+\i (00:06:09) setwindow pcb
+\i (00:06:09) zoom in 1552.86 -46.02
+\i (00:06:09) trapsize 96
+\i (00:06:10) zoom out 1 
+\i (00:06:10) setwindow pcb
+\i (00:06:10) zoom out 1553.82 -46.21
+\i (00:06:10) trapsize 191
+\i (00:06:10) zoom out 1 
+\i (00:06:10) setwindow pcb
+\i (00:06:10) zoom out 1553.81 -46.20
+\i (00:06:10) trapsize 382
+\i (00:07:33) zoom in 1 
+\i (00:07:33) setwindow pcb
+\i (00:07:33) zoom in 1965.35 -20.96
+\i (00:07:33) trapsize 191
+\i (00:07:33) zoom in 1 
+\i (00:07:33) setwindow pcb
+\i (00:07:33) zoom in 1962.29 -31.29
+\i (00:07:33) trapsize 96
+\i (00:07:33) zoom in 1 
+\i (00:07:33) setwindow pcb
+\i (00:07:33) zoom in 1968.03 -42.76
+\i (00:07:33) trapsize 48
+\i (00:07:34) roam start
+\i (00:07:34) roam x 16
+\i (00:07:34) roam x 64
+\i (00:07:34) roam y 32
+\i (00:07:34) roam x 64
+\i (00:07:34) roam y 32
+\i (00:07:34) roam x 48
+\i (00:07:34) roam y 32
+\i (00:07:34) roam x 32
+\i (00:07:34) roam y 32
+\i (00:07:34) roam x 32
+\i (00:07:34) roam y 48
+\i (00:07:35) roam x 16
+\i (00:07:35) roam x -64
+\i (00:07:35) roam y -112
+\i (00:07:35) roam x -96
+\i (00:07:35) roam y -208
+\i (00:07:35) roam x -64
+\i (00:07:35) roam y -144
+\i (00:07:35) roam x -48
+\i (00:07:35) roam y -144
+\i (00:07:35) roam x -48
+\i (00:07:35) roam y -144
+\i (00:07:35) roam x -48
+\i (00:07:35) roam y -224
+\i (00:07:35) roam x -16
+\i (00:07:35) roam y -32
+\i (00:07:35) roam x -32
+\i (00:07:35) roam y -80
+\i (00:07:35) roam x -16
+\i (00:07:35) roam y -64
+\i (00:07:35) roam x -48
+\i (00:07:35) roam y -96
+\i (00:07:35) roam x -16
+\i (00:07:35) roam y -32
+\i (00:07:35) roam y -16
+\i (00:07:35) roam x -16
+\i (00:07:35) roam end
+\i (00:07:35) zoom out 1 
+\i (00:07:35) setwindow pcb
+\i (00:07:35) zoom out 1952.81 69.57
+\i (00:07:35) trapsize 96
+\i (00:07:36) zoom out 1 
+\i (00:07:36) setwindow pcb
+\i (00:07:36) zoom out 1952.61 69.57
+\i (00:07:36) trapsize 191
+\i (00:07:36) zoom out 1 
+\i (00:07:36) setwindow pcb
+\i (00:07:36) zoom out 1952.62 69.56
+\i (00:07:36) trapsize 382
+\i (00:07:37) roam start
+\i (00:07:37) roam x 16
+\i (00:07:37) roam x 240
+\i (00:07:37) roam y 32
+\i (00:07:37) roam x 416
+\i (00:07:37) roam y 64
+\i (00:07:37) roam x 176
+\i (00:07:37) roam y 32
+\i (00:07:37) roam x 112
+\i (00:07:37) roam y 16
+\i (00:07:37) roam x 48
+\i (00:07:37) roam x 16
+\i (00:07:37) roam x 16
+\i (00:07:38) roam end
+\i (00:07:39) roam start
+\i (00:07:39) roam x -16
+\i (00:07:39) roam x -64
+\i (00:07:39) roam x -48
+\i (00:07:40) roam end
+\i (00:07:41) zoom in 1 
+\i (00:07:41) setwindow pcb
+\i (00:07:41) zoom in 2799.67 26.06
+\i (00:07:41) trapsize 191
+\i (00:07:41) zoom in 1 
+\i (00:07:41) setwindow pcb
+\i (00:07:41) zoom in 2780.17 27.21
+\i (00:07:41) trapsize 96
+\i (00:07:42) zoom out 1 
+\i (00:07:42) setwindow pcb
+\i (00:07:42) zoom out 2778.26 20.71
+\i (00:07:42) trapsize 191
+\i (00:07:42) roam start
+\i (00:07:42) roam x 16
+\i (00:07:42) roam x 64
+\i (00:07:42) roam y 48
+\i (00:07:42) roam x 64
+\i (00:07:42) roam y 48
+\i (00:07:43) roam x 16
+\i (00:07:43) roam y 144
+\i (00:07:43) roam y 144
+\i (00:07:43) roam y 64
+\i (00:07:43) roam y 32
+\i (00:07:43) roam x -16
+\i (00:07:43) roam y 32
+\i (00:07:43) roam x -16
+\i (00:07:43) roam end
+\i (00:07:44) zoom out 1 
+\i (00:07:44) setwindow pcb
+\i (00:07:44) zoom out 2826.06 -190.03
+\i (00:07:44) trapsize 382
+\i (00:07:44) zoom out 1 
+\i (00:07:44) setwindow pcb
+\i (00:07:44) zoom out 2823.01 -190.03
+\i (00:07:44) trapsize 765
+\i (00:07:45) roam start
+\i (00:07:45) roam x -16
+\i (00:07:45) roam x -48
+\i (00:07:45) roam y 16
+\i (00:07:45) roam x -16
+\i (00:07:45) roam x -240
+\i (00:07:45) roam x -288
+\i (00:07:45) roam x -160
+\i (00:07:45) roam x -240
+\i (00:07:45) roam y -16
+\i (00:07:45) roam x -272
+\i (00:07:45) roam y -16
+\i (00:07:46) roam x 16
+\i (00:07:46) roam end
+\i (00:07:46) zoom in 1 
+\i (00:07:46) setwindow pcb
+\i (00:07:46) zoom in 606.64 -185.82
+\i (00:07:46) trapsize 382
+\i (00:07:46) zoom in 1 
+\i (00:07:46) setwindow pcb
+\i (00:07:46) zoom in 601.29 -179.70
+\i (00:07:46) trapsize 191
+\i (00:07:47) zoom in 1 
+\i (00:07:47) setwindow pcb
+\i (00:07:47) zoom in 598.23 -176.63
+\i (00:07:47) trapsize 96
+\i (00:07:47) zoom out 1 
+\i (00:07:47) setwindow pcb
+\i (00:07:47) zoom out 590.78 -176.63
+\i (00:07:47) trapsize 191
+\i (00:07:47) zoom out 1 
+\i (00:07:47) setwindow pcb
+\i (00:07:47) zoom out 591.54 -176.62
+\i (00:07:47) trapsize 382
+\i (00:07:48) zoom out 1 
+\i (00:07:48) setwindow pcb
+\i (00:07:48) zoom out 606.85 -173.57
+\i (00:07:48) trapsize 765
+\i (00:07:49) roam start
+\i (00:07:49) roam x 16
+\i (00:07:49) roam x 160
+\i (00:07:49) roam y 32
+\i (00:07:49) roam x 240
+\i (00:07:49) roam y 64
+\i (00:07:49) roam x 112
+\i (00:07:49) roam x 80
+\i (00:07:49) roam y 16
+\i (00:07:49) roam x 16
+\i (00:07:49) roam x 128
+\i (00:07:49) roam y 16
+\i (00:07:53) roam x 80
+\i (00:07:53) roam x 96
+\i (00:07:53) roam y 16
+\i (00:07:53) roam x 64
+\i (00:07:53) roam y 16
+\i (00:07:54) roam x 16
+\i (00:07:54) roam x 688
+\i (00:07:54) roam y 144
+\i (00:07:54) roam x 304
+\i (00:07:54) roam y 48
+\i (00:07:54) roam x 304
+\i (00:07:54) roam y -64
+\i (00:07:54) roam x 48
+\i (00:07:54) roam y -32
+\i (00:07:55) roam x -16
+\i (00:07:55) roam x -352
+\i (00:07:55) roam y -32
+\i (00:07:56) roam x -560
+\i (00:07:56) roam y -80
+\i (00:07:56) roam x -144
+\i (00:07:56) roam y -16
+\i (00:07:56) roam x -48
+\i (00:07:56) roam x -240
+\i (00:07:56) roam y -16
+\i (00:07:59) roam x -16
+\i (00:07:59) roam y -16
+\i (00:08:03) roam y -16
+\i (00:08:03) roam end
+\i (00:08:05) zoom in 1 
+\i (00:08:05) setwindow pcb
+\i (00:08:05) zoom in 1174.21 -279.15
+\i (00:08:05) trapsize 382
+\i (00:08:05) zoom in 1 
+\i (00:08:05) setwindow pcb
+\i (00:08:05) zoom in 1174.98 -275.32
+\i (00:08:05) trapsize 191
+\i (00:08:06) roam start
+\i (00:08:06) roam x -16
+\i (00:08:06) roam x -48
+\i (00:08:06) roam x -48
+\i (00:08:07) roam x -16
+\i (00:08:07) roam end
+\i (00:08:07) zoom out 1 
+\i (00:08:07) setwindow pcb
+\i (00:08:07) zoom out 1200.61 -276.84
+\i (00:08:07) trapsize 382
+\i (00:08:08) zoom in 1 
+\i (00:08:08) setwindow pcb
+\i (00:08:08) zoom in 1087.39 -146.05
+\i (00:08:08) trapsize 191
+\i (00:08:08) zoom in 1 
+\i (00:08:08) setwindow pcb
+\i (00:08:08) zoom in 1087.39 -146.04
+\i (00:08:08) trapsize 96
+\i (00:08:11) roam start
+\i (00:08:11) roam x -16
+\i (00:08:11) roam y 16
+\i (00:08:11) roam x -16
+\i (00:08:11) roam y 16
+\i (00:08:11) roam x -16
+\i (00:08:11) roam y 32
+\i (00:08:11) roam y 16
+\i (00:08:11) roam x -16
+\i (00:08:11) roam y 16
+\i (00:08:11) roam end
+\i (00:08:14) zoom out 1 
+\i (00:08:14) setwindow pcb
+\i (00:08:14) zoom out 1135.96 -193.86
+\i (00:08:14) trapsize 191
+\i (00:08:15) zoom out 1 
+\i (00:08:15) setwindow pcb
+\i (00:08:15) zoom out 1135.97 -193.85
+\i (00:08:15) trapsize 382
+\i (00:08:17) zoom in 1 
+\i (00:08:17) setwindow pcb
+\i (00:08:17) zoom in 1137.49 -192.33
+\i (00:08:17) trapsize 191
+\i (00:08:17) zoom in 1 
+\i (00:08:17) setwindow pcb
+\i (00:08:17) zoom in 1137.49 -192.33
+\i (00:08:17) trapsize 96
+\i (00:09:40) zoom out 1 
+\i (00:09:40) setwindow pcb
+\i (00:09:40) zoom out 1216.09 -220.63
+\i (00:09:40) trapsize 191
+\i (00:09:40) zoom out 1 
+\i (00:09:40) setwindow pcb
+\i (00:09:40) zoom out 1216.09 -220.62
+\i (00:09:40) trapsize 382
+\i (00:09:41) zoom out 1 
+\i (00:09:41) setwindow pcb
+\i (00:09:41) zoom out 1215.33 -218.33
+\i (00:09:41) trapsize 765
+\i (00:09:42) roam start
+\i (00:09:42) roam x 16
+\i (00:09:42) roam x 192
+\i (00:09:42) roam y 32
+\i (00:09:42) roam x 208
+\i (00:09:42) roam y 48
+\i (00:09:43) roam x 240
+\i (00:09:43) roam y 48
+\i (00:09:43) roam x 80
+\i (00:09:43) roam y 16
+\i (00:09:43) roam x 400
+\i (00:09:43) roam y 48
+\i (00:09:45) roam x -32
+\i (00:09:45) roam x -496
+\i (00:09:45) roam y -32
+\i (00:09:45) roam end
+\i (00:09:46) zoom in 1 
+\i (00:09:46) setwindow pcb
+\i (00:09:46) zoom in 1360.85 -251.61
+\i (00:09:46) trapsize 382
+\i (00:09:46) zoom in 1 
+\i (00:09:46) setwindow pcb
+\i (00:09:46) zoom in 1296.60 -240.13
+\i (00:09:46) trapsize 191
+\i (00:09:46) zoom out 1 
+\i (00:09:46) setwindow pcb
+\i (00:09:46) zoom out 1233.11 -217.94
+\i (00:09:46) trapsize 382
+\i (00:09:47) roam start
+\i (00:09:47) roam x -16
+\i (00:09:47) roam x -144
+\i (00:09:47) roam y -16
+\i (00:09:47) roam x -128
+\i (00:09:48) roam end
+\i (00:09:48) zoom in 1 
+\i (00:09:48) setwindow pcb
+\i (00:09:48) zoom in 1044.94 -150.64
+\i (00:09:48) trapsize 191
+\i (00:09:51) zoom out 1 
+\i (00:09:51) setwindow pcb
+\i (00:09:51) zoom out 1170.77 -180.47
+\i (00:09:51) trapsize 382
+\i (00:10:00) zoom out 1 
+\i (00:10:00) setwindow pcb
+\i (00:10:00) zoom out 1154.70 -177.40
+\i (00:10:00) trapsize 765
+\i (00:10:00) zoom out 1 
+\i (00:10:00) setwindow pcb
+\i (00:10:00) zoom out 1151.65 -189.65
+\i (00:10:00) trapsize 1530
+\i (00:10:01) roam start
+\i (00:10:01) roam x 16
+\i (00:10:01) roam x 112
+\i (00:10:01) roam y 16
+\i (00:10:01) roam x 304
+\i (00:10:01) roam y 32
+\i (00:10:01) roam x 256
+\i (00:10:01) roam y 16
+\i (00:10:02) roam end
+\i (00:10:03) roam start
+\i (00:10:03) roam y -16
+\i (00:10:03) roam x -48
+\i (00:10:03) roam y -288
+\i (00:10:03) roam y -288
+\i (00:10:03) roam y -304
+\i (00:10:03) roam y -176
+\i (00:10:04) roam y -320
+\i (00:10:04) roam y -304
+\i (00:10:04) roam y -144
+\i (00:10:04) roam end
+\i (00:10:06) zoom in 1 
+\i (00:10:06) setwindow pcb
+\i (00:10:06) zoom in 2733.13 6007.01
+\i (00:10:06) trapsize 765
+\i (00:10:06) zoom in 1 
+\i (00:10:06) setwindow pcb
+\i (00:10:06) zoom in 2668.88 6007.01
+\i (00:10:06) trapsize 382
+\i (00:10:06) zoom in 1 
+\i (00:10:06) setwindow pcb
+\i (00:10:06) zoom in 2691.83 5831.08
+\i (00:10:07) trapsize 191
+\i (00:10:07) zoom in 1 
+\i (00:10:07) setwindow pcb
+\i (00:10:07) zoom in 2691.45 5831.08
+\i (00:10:07) trapsize 96
+\i (00:10:07) zoom out 1 
+\i (00:10:07) setwindow pcb
+\i (00:10:07) zoom out 2690.11 5831.85
+\i (00:10:07) trapsize 191
+\i (00:10:07) zoom out 1 
+\i (00:10:07) setwindow pcb
+\i (00:10:07) zoom out 2690.12 5831.84
+\i (00:10:07) trapsize 382
+\i (00:10:08) roam start
+\i (00:10:08) roam x -16
+\i (00:10:08) roam x -400
+\i (00:10:08) roam x -336
+\i (00:10:08) roam x -32
+\i (00:10:08) roam x -16
+\i (00:10:08) roam x -112
+\i (00:10:08) roam x -80
+\i (00:10:08) roam x -16
+\i (00:10:08) roam x -96
+\i (00:10:08) roam x -32
+\i (00:10:08) roam x -80
+\i (00:10:08) roam x -64
+\i (00:10:09) roam x -64
+\i (00:10:09) roam x -80
+\i (00:10:09) roam y 16
+\i (00:10:09) roam x -80
+\i (00:10:09) roam x -160
+\i (00:10:09) roam x -96
+\i (00:10:09) roam x -16
+\i (00:10:09) roam x -224
+\i (00:10:10) roam end
+\i (00:10:10) zoom in 1 
+\i (00:10:10) setwindow pcb
+\i (00:10:10) zoom in 1193.34 5942.75
+\i (00:10:10) trapsize 191
+\i (00:10:11) roam start
+\i (00:10:11) roam x -16
+\i (00:10:11) roam x -400
+\i (00:10:11) roam y -32
+\i (00:10:11) roam x -256
+\i (00:10:11) roam y -16
+\i (00:10:11) roam x -64
+\i (00:10:11) roam x -16
+\i (00:10:12) roam x -64
+\i (00:10:12) roam x -240
+\i (00:10:12) roam y -16
+\i (00:10:12) roam end
+\i (00:10:14) zoom out 1 
+\i (00:10:14) setwindow pcb
+\i (00:10:14) zoom out 874.75 5874.29
+\i (00:10:14) trapsize 382
+\i (00:10:15) roam start
+\i (00:10:15) roam x 16
+\i (00:10:15) roam y 16
+\i (00:10:15) roam x 160
+\i (00:10:15) roam y 96
+\i (00:10:15) roam x 272
+\i (00:10:15) roam y 160
+\i (00:10:15) roam x 80
+\i (00:10:15) roam y 48
+\i (00:10:15) roam x 32
+\i (00:10:15) roam x 64
+\i (00:10:15) roam x 112
+\i (00:10:15) roam end
+\i (00:10:16) roam start
+\i (00:10:16) roam x 16
+\i (00:10:16) roam x 176
+\i (00:10:16) roam y 16
+\i (00:10:16) roam x 176
+\i (00:10:16) roam y 16
+\i (00:10:17) roam x 64
+\i (00:10:17) roam x 64
+\i (00:10:17) roam y 16
+\i (00:10:17) roam x 64
+\i (00:10:17) roam x 96
+\i (00:10:17) roam y 16
+\i (00:10:17) roam x 96
+\i (00:10:17) roam end
+\i (00:10:17) roam start
+\i (00:10:17) roam x 32
+\i (00:10:17) roam x 128
+\i (00:10:17) roam y 16
+\i (00:10:17) roam x 160
+\i (00:10:17) roam x 80
+\i (00:10:17) roam y 16
+\i (00:10:17) roam x 16
+\i (00:10:17) roam x 16
+\i (00:10:18) roam end
+\i (00:10:19) roam start
+\i (00:10:19) roam x -16
+\i (00:10:19) roam x -80
+\i (00:10:19) roam y -16
+\i (00:10:19) roam x -192
+\i (00:10:19) roam y -16
+\i (00:10:19) roam end
+\i (00:10:21) zoom in 1 
+\i (00:10:21) setwindow pcb
+\i (00:10:21) zoom in 1781.56 5911.39
+\i (00:10:21) trapsize 191
+\i (00:10:22) zoom in 1 
+\i (00:10:22) setwindow pcb
+\i (00:10:22) zoom in 1623.22 5944.66
+\i (00:10:22) trapsize 96
+\i (00:11:09) zoom out 1 
+\i (00:11:09) setwindow pcb
+\i (00:11:09) zoom out 1850.02 5817.88
+\t (00:11:09) [14:44:47.319712] Periodic Lic check successful
+[14:44:47.844000] Feature usage summary:
+[14:44:47.844000] OrCAD_X_PCB_Professional_Plus
+[14:44:47.844000] OrCAD_X_Professional_Plus
+
+\i (00:11:09) trapsize 191
+\i (00:11:09) zoom out 1 
+\i (00:11:09) setwindow pcb
+\i (00:11:09) zoom out 1850.03 5817.88
+\i (00:11:09) trapsize 382
+\i (00:11:09) zoom out 1 
+\i (00:11:09) setwindow pcb
+\i (00:11:09) zoom out 1850.03 5817.88
+\i (00:11:09) trapsize 765
+\i (00:11:09) zoom out 1 
+\i (00:11:09) setwindow pcb
+\i (00:11:09) zoom out 1850.03 5817.88
+\i (00:11:09) trapsize 1530
+\i (00:11:10) roam start
+\i (00:11:10) roam x 16
+\i (00:11:10) roam x 128
+\i (00:11:10) roam y -16
+\i (00:11:10) roam x 224
+\i (00:11:10) roam x 80
+\i (00:11:10) roam x 80
+\i (00:11:11) roam y 16
+\i (00:11:11) roam x 80
+\i (00:11:11) roam y 160
+\i (00:11:11) roam x 64
+\i (00:11:11) roam y 32
+\i (00:11:11) roam x 48
+\i (00:11:11) roam y 48
+\i (00:11:11) roam x 32
+\i (00:11:11) roam y 16
+\i (00:11:11) roam x 112
+\i (00:11:11) roam y 112
+\i (00:11:11) roam end
+\i (00:11:16) zoom in 1 
+\i (00:11:16) setwindow pcb
+\i (00:11:16) zoom in 3804.03 5902.97
+\i (00:11:16) trapsize 765
+\i (00:11:16) zoom in 1 
+\i (00:11:16) setwindow pcb
+\i (00:11:16) zoom in 3785.67 5924.39
+\i (00:11:16) trapsize 382
+\i (00:11:16) zoom in 1 
+\i (00:11:16) setwindow pcb
+\i (00:11:16) zoom in 3777.26 5936.63
+\i (00:11:16) trapsize 191
+\i (00:11:20) roam start
+\i (00:11:20) roam x -16
+\i (00:11:20) roam x -160
+\i (00:11:20) roam x -192
+\i (00:11:20) roam x -96
+\i (00:11:20) roam x -96
+\i (00:11:20) roam y -16
+\i (00:11:20) roam x -48
+\i (00:11:20) roam end
+\i (00:11:21) roam start
+\i (00:11:21) roam x 16
+\i (00:11:21) roam y -16
+\i (00:11:21) roam x 96
+\i (00:11:21) roam y -96
+\i (00:11:21) roam x 128
+\i (00:11:21) roam y -176
+\i (00:11:21) roam x 96
+\i (00:11:21) roam y -112
+\i (00:11:22) roam x 32
+\i (00:11:22) roam y -32
+\i (00:11:22) roam x 32
+\i (00:11:22) roam x 16
+\i (00:11:22) roam x 64
+\i (00:11:22) roam y 16
+\i (00:11:22) roam x 96
+\i (00:11:22) roam y 80
+\i (00:11:22) roam x 96
+\i (00:11:22) roam y 112
+\i (00:11:22) roam x 48
+\i (00:11:22) roam y 32
+\i (00:11:22) roam x 48
+\i (00:11:22) roam y 48
+\i (00:11:22) roam y 16
+\i (00:11:22) roam end
+\i (00:11:31) setwindow form.find
+\i (00:11:31) FORM find all_off  
+\i (00:11:31) FORM find symbols YES 
+\i (00:11:35) setwindow pcb
+\i (00:11:35) pick grid 3706.87 5951.16
+\t (00:11:35) last pick:  3705.00 5950.00
+\i (00:11:36) show element 
+\i (00:11:37) generaledit 
+\i (00:12:21) roam start
+\i (00:12:21) roam x 16
+\i (00:12:21) roam y 48
+\i (00:12:21) roam x 16
+\i (00:12:21) roam y 48
+\i (00:12:21) roam y 64
+\i (00:12:21) roam x -32
+\i (00:12:21) roam y 48
+\i (00:12:21) roam x -16
+\i (00:12:21) roam y 32
+\i (00:12:21) roam end
+\i (00:12:30) pick grid 3808.99 5731.63
+\t (00:12:30) last pick:  3810.00 5730.00
+\i (00:12:37) setwindow text
+\i (00:12:37) close
+\i (00:12:38) setwindow pcb
+\i (00:12:38) roam start
+\i (00:12:38) roam y 16
+\i (00:12:38) roam x -32
+\i (00:12:38) roam y 48
+\i (00:12:38) roam x -32
+\i (00:12:38) roam y 48
+\i (00:12:38) roam x -80
+\i (00:12:38) roam y 96
+\i (00:12:38) roam x -112
+\i (00:12:38) roam y 128
+\i (00:12:38) roam x -32
+\i (00:12:38) roam y 64
+\i (00:12:38) roam end
+\i (00:12:42) pick grid 3531.33 5758.41
+\t (00:12:42) last pick:  3530.00 5760.00
+\i (00:12:42) show element 
+\i (00:12:42) generaledit 
+\i (00:13:47) zoom out 1 
+\i (00:13:47) setwindow pcb
+\i (00:13:47) zoom out 3560.40 5928.98
+\i (00:13:47) trapsize 382
+\i (00:13:47) zoom out 1 
+\i (00:13:47) setwindow pcb
+\i (00:13:47) zoom out 3539.74 5880.03
+\i (00:13:47) trapsize 765
+\i (00:13:48) roam start
+\i (00:13:48) roam y -16
+\i (00:13:48) roam x 32
+\i (00:13:48) roam y -128
+\i (00:13:48) roam x 16
+\i (00:13:48) roam y -64
+\i (00:13:48) roam end
+\i (00:13:50) QtSignal ColorVisibilityPane CVPLayerSelectBox clicked true
+\i (00:13:50) updateport CVPane
+\i (00:13:51) QtSignal CVPLayerGrid CVPLabelL5 linkActivated 4
+\i (00:13:51) updateport CVPane
+\i (00:13:53) QtSignal CVPLayerGrid CVPLabelTop linkActivated 0
+\i (00:13:53) updateport CVPane
+\i (00:13:54) zoom in 1 
+\i (00:13:54) setwindow pcb
+\i (00:13:54) zoom in 3478.17 5909.09
+\i (00:13:54) trapsize 382
+\i (00:13:55) zoom in 1 
+\i (00:13:55) setwindow pcb
+\i (00:13:55) zoom in 3598.26 5762.23
+\i (00:13:55) trapsize 191
+\i (00:14:19) zoom out 1 
+\i (00:14:19) setwindow pcb
+\i (00:14:19) zoom out 3745.13 5626.45
+\i (00:14:19) trapsize 382
+\i (00:14:20) roam start
+\i (00:14:20) roam y -16
+\i (00:14:20) roam y -32
+\i (00:14:20) roam y -16
+\i (00:14:20) roam x 32
+\i (00:14:21) roam x 112
+\i (00:14:21) roam y 32
+\i (00:14:21) roam x 48
+\i (00:14:21) roam y 16
+\i (00:14:21) roam x 16
+\i (00:14:21) roam y 16
+\i (00:14:21) roam x 16
+\i (00:14:21) roam x 96
+\i (00:14:21) roam y 96
+\i (00:14:21) roam x 112
+\i (00:14:21) roam y 96
+\i (00:14:21) roam x 128
+\i (00:14:21) roam y 96
+\i (00:14:21) roam x 16
+\i (00:14:21) roam y 16
+\i (00:14:21) roam end
+\i (00:14:21) zoom out 1 
+\i (00:14:21) setwindow pcb
+\i (00:14:21) zoom out 4067.92 5410.37
+\i (00:14:21) trapsize 765
+\i (00:14:21) zoom out 1 
+\i (00:14:21) setwindow pcb
+\i (00:14:21) zoom out 4067.93 5408.83
+\i (00:14:21) trapsize 1530
+\i (00:14:23) setwindow text
+\i (00:14:23) close
+\i (00:14:24) setwindow pcb
+\i (00:14:24) roam start
+\i (00:14:24) roam y 16
+\i (00:14:24) roam x 64
+\i (00:14:24) roam y 176
+\i (00:14:24) roam end
+\i (00:14:25) zoom in 1 
+\i (00:14:25) setwindow pcb
+\i (00:14:25) zoom in 3299.17 5869.31
+\i (00:14:25) trapsize 765
+\i (00:14:25) zoom in 1 
+\i (00:14:25) setwindow pcb
+\i (00:14:25) zoom in 3293.06 5869.31
+\i (00:14:25) trapsize 382
+\i (00:14:25) zoom in 1 
+\i (00:14:25) setwindow pcb
+\i (00:14:25) zoom in 3288.47 5863.96
+\i (00:14:25) trapsize 191
+\i (00:14:27) zoom out 1 
+\i (00:14:27) setwindow pcb
+\i (00:14:27) zoom out 3482.39 5860.52
+\i (00:14:27) trapsize 382
+\i (00:14:27) zoom out 1 
+\i (00:14:27) setwindow pcb
+\i (00:14:27) zoom out 3482.38 5860.52
+\i (00:14:27) trapsize 765
+\i (00:14:28) zoom in 1 
+\i (00:14:28) setwindow pcb
+\i (00:14:28) zoom in 3600.18 6022.69
+\i (00:14:28) trapsize 382
+\i (00:14:28) zoom out 1 
+\i (00:14:28) setwindow pcb
+\i (00:14:28) zoom out 3606.30 6026.52
+\i (00:14:28) trapsize 765
+\i (00:14:29) roam start
+\i (00:14:29) roam x 16
+\i (00:14:29) roam x 48
+\i (00:14:29) roam y 32
+\i (00:14:29) roam x 64
+\i (00:14:29) roam y 16
+\i (00:14:29) roam x 48
+\i (00:14:29) roam y 32
+\i (00:14:29) roam x 32
+\i (00:14:29) roam y 16
+\i (00:14:29) roam end
+\i (00:14:29) zoom in 1 
+\i (00:14:29) setwindow pcb
+\i (00:14:29) zoom in 3990.66 5788.24
+\i (00:14:29) trapsize 382
+\i (00:14:30) pick grid 3983.02 5726.28
+\t (00:14:30) last pick:  3985.00 5725.00
+\i (00:14:31) show element 
+\i (00:14:31) generaledit 
+\i (00:14:36) setwindow text
+\i (00:14:36) close
+\i (00:14:37) setwindow pcb
+\i (00:14:37) zoom out 1 
+\i (00:14:37) setwindow pcb
+\i (00:14:37) zoom out 4130.65 5817.30
+\i (00:14:37) trapsize 765
+\i (00:14:37) roam start
+\i (00:14:37) roam y 16
+\i (00:14:37) roam x -112
+\i (00:14:37) roam y 464
+\i (00:14:37) roam x -16
+\i (00:14:37) roam y 496
+\i (00:14:37) roam y 224
+\i (00:14:37) roam y 192
+\i (00:14:37) roam y 240
+\i (00:14:37) roam y 112
+\i (00:14:37) roam x 16
+\i (00:14:37) roam y 128
+\i (00:14:38) roam x 16
+\i (00:14:38) roam y 112
+\i (00:14:38) roam x 16
+\i (00:14:38) roam y 80
+\i (00:14:38) roam x 16
+\i (00:14:38) roam y 32
+\i (00:14:38) roam x 48
+\i (00:14:38) roam y 144
+\i (00:14:38) roam x 96
+\i (00:14:38) roam y 112
+\i (00:14:38) roam x 96
+\i (00:14:38) roam y 64
+\i (00:14:38) roam x 80
+\i (00:14:38) roam y 48
+\i (00:14:38) roam x 16
+\i (00:14:38) roam y 16
+\i (00:14:38) roam y 32
+\i (00:14:38) roam y 16
+\i (00:14:38) roam y 32
+\i (00:14:38) roam y 16
+\i (00:14:38) roam y 16
+\i (00:14:38) roam y 80
+\i (00:14:38) roam x 16
+\i (00:14:38) roam y 112
+\i (00:14:38) roam x -64
+\i (00:14:38) roam y 304
+\i (00:14:38) roam x -48
+\i (00:14:38) roam y 256
+\i (00:14:38) roam x -16
+\i (00:14:38) roam y 240
+\i (00:14:38) roam y 176
+\i (00:14:38) roam y 64
+\i (00:14:38) roam y 128
+\i (00:14:38) roam y 112
+\i (00:14:38) roam y 80
+\i (00:14:38) roam y 96
+\i (00:14:38) roam y 96
+\i (00:14:38) roam y 80
+\i (00:14:38) roam end
+\i (00:14:39) roam start
+\i (00:14:39) roam y -16
+\i (00:14:40) roam y -32
+\i (00:14:40) roam y -208
+\i (00:14:40) roam y -64
+\i (00:14:40) roam x 16
+\i (00:14:40) roam y -48
+\i (00:14:40) roam y -16
+\i (00:14:40) roam end
+\i (00:14:40) zoom in 1 
+\i (00:14:40) setwindow pcb
+\i (00:14:40) zoom in 4027.38 141.56
+\i (00:14:40) trapsize 382
+\i (00:14:40) zoom in 1 
+\i (00:14:40) setwindow pcb
+\i (00:14:40) zoom in 4027.38 141.56
+\i (00:14:40) trapsize 191
+\i (00:14:41) pick grid 4031.21 166.43
+\t (00:14:41) last pick:  4030.00 165.00
+\i (00:14:41) pick grid dbl 4031.21 166.43
+\t (00:14:41) last pick:  4030.00 165.00
+\i (00:14:42) show element 
+\i (00:14:42) generaledit 
+\i (00:14:45) setwindow text
+\i (00:14:45) close
+\i (00:14:46) setwindow pcb
+\i (00:14:46) pick grid 3971.55 174.07
+\t (00:14:46) last pick:  3970.00 175.00
+\i (00:14:46) show element 
+\i (00:14:46) generaledit 
+\i (00:14:49) setwindow text
+\i (00:14:49) close
+\i (00:14:51) setwindow pcb
+\i (00:14:51) roam start
+\i (00:14:51) roam x -32
+\i (00:14:51) roam x -80
+\i (00:14:51) roam x -48
+\i (00:14:51) roam end
+\i (00:14:51) pick grid 3474.34 172.54
+\t (00:14:51) last pick:  3475.00 175.00
+\i (00:14:52) show element 
+\i (00:14:52) generaledit 
+\i (00:14:58) setwindow text
+\i (00:14:58) close
+\i (00:14:59) setwindow pcb
+\i (00:14:59) pick grid 3519.47 197.79
+\t (00:14:59) last pick:  3520.00 200.00
+\i (00:14:59) show element 
+\i (00:14:59) generaledit 
+\i (00:15:03) setwindow text
+\i (00:15:03) close
+\i (00:15:04) setwindow pcb
+\i (00:15:04) zoom out 1 
+\i (00:15:04) setwindow pcb
+\i (00:15:04) zoom out 3834.62 3.88
+\i (00:15:04) trapsize 382
+\i (00:15:04) roam start
+\i (00:15:04) roam y 16
+\i (00:15:04) roam x -32
+\i (00:15:04) roam x -48
+\i (00:15:04) roam x -144
+\i (00:15:04) roam y 48
+\i (00:15:04) roam x -160
+\i (00:15:04) roam y 48
+\i (00:15:04) roam x -48
+\i (00:15:04) roam y 16
+\i (00:15:04) roam x -48
+\i (00:15:04) roam x -48
+\i (00:15:04) roam y 32
+\i (00:15:05) roam end
+\i (00:15:09) pick grid 3545.48 -407.65
+\t (00:15:09) last pick:  3545.00 -410.00
+\i (00:15:11) zoom in 1 
+\i (00:15:11) setwindow pcb
+\i (00:15:11) zoom in 3357.31 -119.27
+\i (00:15:11) trapsize 191
+\i (00:15:11) zoom out 1 
+\i (00:15:11) setwindow pcb
+\i (00:15:11) zoom out 3500.36 -177.79
+\i (00:15:11) trapsize 382
+\i (00:15:12) roam start
+\i (00:15:12) roam x 16
+\i (00:15:12) roam x 48
+\i (00:15:12) roam x 32
+\i (00:15:12) roam x 48
+\i (00:15:12) roam x 144
+\i (00:15:12) roam y -16
+\i (00:15:13) roam end
+\i (00:15:15) QtSignal CVPLayerGrid CVPLabelL5 linkActivated 4
+\i (00:15:15) updateport CVPane
+\i (00:15:17) QtSignal CVPLayerGrid CVPLabelL2 linkActivated 1
+\i (00:15:17) updateport CVPane
+\i (00:15:18) QtSignal CVPLayerGrid CVPLabelTop linkActivated 0
+\i (00:15:18) updateport CVPane
+\i (00:15:19) zoom in 1 
+\i (00:15:19) setwindow pcb
+\i (00:15:19) zoom in 3241.80 -324.28
+\i (00:15:19) trapsize 191
+\i (00:15:21) pick grid 3330.54 -264.23
+\t (00:15:21) last pick:  3330.00 -265.00
+\i (00:15:21) show element 
+\i (00:15:21) generaledit 
+\i (00:15:24) setwindow text
+\i (00:15:24) close
+\i (00:15:25) setwindow pcb
+\i (00:15:25) roam start
+\i (00:15:25) roam y -16
+\i (00:15:25) roam y -32
+\i (00:15:25) roam x 16
+\i (00:15:25) roam y -16
+\i (00:15:25) roam y -32
+\i (00:15:25) roam y -112
+\i (00:15:25) roam y -16
+\i (00:15:25) roam y -16
+\i (00:15:25) roam y -16
+\i (00:15:25) roam y -32
+\i (00:15:25) roam y -16
+\i (00:15:25) roam x -16
+\i (00:15:25) roam y -16
+\i (00:15:25) roam y -64
+\i (00:15:25) roam end
+\i (00:15:26) pick grid 3321.74 69.28
+\t (00:15:26) last pick:  3320.00 70.00
+\i (00:15:26) show element 
+\i (00:15:26) generaledit 
+\i (00:15:32) setwindow text
+\i (00:15:32) close
+\i (00:15:33) setwindow pcb
+\i (00:15:33) zoom out 1 
+\i (00:15:33) setwindow pcb
+\i (00:15:33) zoom out 3510.67 -48.52
+\i (00:15:33) trapsize 382
+\i (00:15:34) zoom in 1 
+\i (00:15:34) setwindow pcb
+\i (00:15:34) zoom in 3174.11 76.17
+\i (00:15:34) trapsize 191
+\i (00:15:35) pick grid 3223.83 89.18
+\t (00:15:35) last pick:  3225.00 90.00
+\i (00:15:35) show element 
+\i (00:15:35) generaledit 
+\i (00:15:39) setwindow text
+\i (00:15:39) close
+\i (00:15:40) setwindow pcb
+\i (00:15:40) pick grid 3229.19 33.72
+\t (00:15:40) last pick:  3230.00 35.00
+\i (00:15:40) show element 
+\i (00:15:40) generaledit 
+\i (00:15:45) setwindow text
+\i (00:15:45) close
+\i (00:15:46) setwindow pcb
+\i (00:15:46) zoom out 1 
+\i (00:15:46) setwindow pcb
+\i (00:15:46) zoom out 3479.32 -2.99
+\i (00:15:46) trapsize 382
+\i (00:15:46) zoom out 1 
+\i (00:15:46) setwindow pcb
+\i (00:15:46) zoom out 3479.31 -3.00
+\i (00:15:46) trapsize 765
+\i (00:15:46) roam start
+\i (00:15:46) roam y 16
+\i (00:15:47) roam x 80
+\i (00:15:47) roam y 32
+\i (00:15:47) roam x 80
+\i (00:15:47) roam y 16
+\i (00:15:47) roam x 144
+\i (00:15:47) roam y 48
+\i (00:15:47) roam x 48
+\i (00:15:47) roam y 16
+\i (00:15:47) roam x 16
+\i (00:15:47) roam x 16
+\i (00:15:47) roam x 32
+\i (00:15:47) roam x 64
+\i (00:15:47) roam y 16
+\i (00:15:47) roam x 16
+\i (00:15:47) roam end
+\i (00:15:47) zoom in 1 
+\i (00:15:47) setwindow pcb
+\i (00:15:47) zoom in 3423.09 -384.70
+\i (00:15:47) trapsize 382
+\i (00:15:48) pick grid 3222.68 -298.26
+\t (00:15:48) last pick:  3225.00 -300.00
+\i (00:15:48) show element 
+\i (00:15:48) generaledit 
+\i (00:15:51) setwindow text
+\i (00:15:51) close
+\i (00:15:52) setwindow pcb
+\i (00:15:52) pick grid 3199.74 -279.13
+\t (00:15:52) last pick:  3200.00 -280.00
+\i (00:15:52) show element 
+\i (00:15:52) generaledit 
+\i (00:15:54) setwindow text
+\i (00:15:54) close
+\i (00:15:55) setwindow pcb
+\i (00:15:55) pick grid 3189.03 20.72
+\t (00:15:55) last pick:  3190.00 20.00
+\i (00:15:55) show element 
+\i (00:15:55) generaledit 
+\i (00:15:58) setwindow text
+\i (00:15:58) close
+\i (00:15:58) setwindow pcb
+\i (00:15:58) zoom out 1 
+\t (00:15:58) [14:49:37.052712] Periodic Lic check successful
+[14:49:37.577000] Feature usage summary:
+[14:49:37.577000] OrCAD_X_PCB_Professional_Plus
+[14:49:37.577000] OrCAD_X_Professional_Plus
+
+\i (00:15:58) setwindow pcb
+\i (00:15:58) zoom out 3658.69 -84.08
+\i (00:15:58) trapsize 765
+\i (00:15:58) zoom out 1 
+\i (00:15:58) setwindow pcb
+\i (00:15:58) zoom out 3658.69 -84.08
+\i (00:15:58) trapsize 1530
+\i (00:15:59) roam start
+\i (00:15:59) roam y -16
+\i (00:15:59) roam x 16
+\i (00:15:59) roam y -48
+\i (00:15:59) roam x 32
+\i (00:15:59) roam y -160
+\i (00:15:59) roam x 32
+\i (00:15:59) roam y -64
+\i (00:15:59) roam end
+\i (00:16:00) zoom in 1 
+\i (00:16:00) setwindow pcb
+\i (00:16:00) zoom in 2561.78 845.30
+\i (00:16:00) trapsize 765
+\i (00:16:00) zoom in 1 
+\i (00:16:00) setwindow pcb
+\i (00:16:00) zoom in 2612.27 816.23
+\i (00:16:00) trapsize 382
+\i (00:16:00) zoom in 1 
+\i (00:16:00) setwindow pcb
+\i (00:16:00) zoom in 2613.04 816.24
+\i (00:16:00) trapsize 191
+\i (00:16:03) pick grid 2715.16 813.94
+\t (00:16:03) last pick:  2715.00 815.00
+\i (00:16:03) show element 
+\i (00:16:03) generaledit 
+\i (00:16:08) setwindow text
+\i (00:16:08) close
+\i (00:16:09) setwindow pcb
+\i (00:16:09) pick grid 2666.58 808.97
+\t (00:16:09) last pick:  2665.00 810.00
+\i (00:16:09) show element 
+\i (00:16:09) generaledit 
+\i (00:16:11) setwindow text
+\i (00:16:11) close
+\i (00:16:12) setwindow pcb
+\i (00:16:12) zoom out 1 
+\i (00:16:12) setwindow pcb
+\i (00:16:12) zoom out 2820.33 649.10
+\i (00:16:12) trapsize 382
+\i (00:16:12) zoom out 1 
+\i (00:16:12) setwindow pcb
+\i (00:16:12) zoom out 2820.34 649.10
+\i (00:16:12) trapsize 765
+\i (00:16:13) roam start
+\i (00:16:13) roam y -16
+\i (00:16:13) roam x 96
+\i (00:16:13) roam x 224
+\i (00:16:13) roam x 160
+\i (00:16:13) roam x 64
+\i (00:16:13) roam end
+\i (00:16:13) zoom in 1 
+\i (00:16:13) setwindow pcb
+\i (00:16:13) zoom in 3065.11 762.68
+\i (00:16:13) trapsize 382
+\i (00:16:13) zoom in 1 
+\i (00:16:13) setwindow pcb
+\i (00:16:13) zoom in 3019.21 774.92
+\i (00:16:13) trapsize 191
+\i (00:16:14) pick grid 2865.46 805.52
+\t (00:16:14) last pick:  2865.00 805.00
+\i (00:16:14) show element 
+\i (00:16:14) generaledit 
+\i (00:16:16) setwindow text
+\i (00:16:16) close
+\i (00:16:17) setwindow pcb
+\i (00:16:17) zoom out 1 
+\i (00:16:17) setwindow pcb
+\i (00:16:17) zoom out 3132.42 663.25
+\i (00:16:17) trapsize 382
+\i (00:16:17) zoom out 1 
+\i (00:16:17) setwindow pcb
+\i (00:16:17) zoom out 3132.42 667.84
+\i (00:16:17) trapsize 765
+\i (00:16:17) zoom out 1 
+\i (00:16:17) setwindow pcb
+\i (00:16:17) zoom out 3132.42 683.13
+\i (00:16:17) trapsize 1530
+\i (00:16:18) zoom out 1 
+\i (00:16:18) setwindow pcb
+\i (00:16:18) zoom out 3129.36 732.08
+\i (00:16:18) trapsize 3060
+\i (00:16:19) zoom in 1 
+\i (00:16:19) setwindow pcb
+\i (00:16:19) zoom in 4165.07 4495.52
+\i (00:16:19) trapsize 1530
+\i (00:16:20) roam start
+\i (00:16:20) roam y -16
+\i (00:16:20) roam x 48
+\i (00:16:20) roam y -144
+\i (00:16:20) roam x 48
+\i (00:16:20) roam y -160
+\i (00:16:20) roam y -16
+\i (00:16:20) roam end
+\i (00:16:21) zoom in 1 
+\i (00:16:21) setwindow pcb
+\i (00:16:21) zoom in 3130.89 5991.70
+\i (00:16:21) trapsize 765
+\i (00:16:21) zoom in 1 
+\i (00:16:21) setwindow pcb
+\i (00:16:21) zoom in 3083.47 5890.73
+\i (00:16:21) trapsize 382
+\i (00:16:21) roam start
+\i (00:16:21) roam x -16
+\i (00:16:22) roam x -48
+\i (00:16:22) roam x -80
+\i (00:16:22) roam x -192
+\i (00:16:22) roam y -16
+\i (00:16:22) roam x -64
+\i (00:16:22) roam y -16
+\i (00:16:22) roam x -16
+\i (00:16:22) roam x -64
+\i (00:16:22) roam y -208
+\i (00:16:22) roam x -48
+\i (00:16:22) roam y -80
+\i (00:16:22) roam x -16
+\i (00:16:22) roam y -16
+\i (00:16:22) roam end
+\i (00:16:22) zoom in 1 
+\i (00:16:22) setwindow pcb
+\i (00:16:22) zoom in 2507.47 6007.76
+\i (00:16:22) trapsize 191
+\i (00:16:23) zoom in 1 
+\i (00:16:23) setwindow pcb
+\i (00:16:23) zoom in 2506.71 6007.00
+\i (00:16:23) trapsize 96
+\i (00:16:23) zoom in 1 
+\i (00:16:23) setwindow pcb
+\i (00:16:23) zoom in 2506.71 6007.00
+\i (00:16:23) trapsize 48
+\i (00:16:23) zoom out 1 
+\i (00:16:23) setwindow pcb
+\i (00:16:23) zoom out 2506.71 6007.01
+\i (00:16:23) trapsize 96
+\i (00:16:23) zoom out 1 
+\i (00:16:23) setwindow pcb
+\i (00:16:23) zoom out 2506.71 6007.00
+\i (00:16:23) trapsize 191
+\i (00:16:24) roam start
+\i (00:16:24) roam x 16
+\i (00:16:24) roam x 64
+\i (00:16:24) roam x 32
+\i (00:16:24) roam x 144
+\i (00:16:24) roam x 32
+\i (00:16:24) roam x 48
+\i (00:16:24) roam y 16
+\i (00:16:24) roam end
+\i (00:16:25) roam start
+\i (00:16:25) roam x 16
+\i (00:16:25) roam x 32
+\i (00:16:25) roam x 208
+\i (00:16:25) roam x 32
+\i (00:16:25) roam x 64
+\i (00:16:25) roam x 176
+\i (00:16:25) roam y 16
+\i (00:16:25) roam end
+\i (00:16:25) zoom out 1 
+\i (00:16:25) setwindow pcb
+\i (00:16:25) zoom out 3049.42 5958.05
+\i (00:16:25) trapsize 382
+\i (00:16:25) roam start
+\i (00:16:25) roam x 32
+\i (00:16:25) roam x 80
+\i (00:16:25) roam x 128
+\i (00:16:25) roam x 32
+\i (00:16:25) roam x 48
+\i (00:16:26) roam end
+\i (00:16:26) zoom in 1 
+\i (00:16:26) setwindow pcb
+\i (00:16:26) zoom in 3244.10 5896.09
+\i (00:16:26) trapsize 191
+\i (00:16:27) pick grid 3328.25 5880.79
+\t (00:16:27) last pick:  3330.00 5880.00
+\i (00:16:28) show element 
+\i (00:16:28) generaledit 
+\i (00:16:30) setwindow text
+\i (00:16:30) close
+\i (00:16:31) setwindow pcb
+\i (00:16:31) roam start
+\i (00:16:31) roam y -16
+\i (00:16:31) roam x 32
+\i (00:16:31) roam y -32
+\i (00:16:31) roam x 16
+\i (00:16:31) roam y -32
+\i (00:16:31) roam x 32
+\i (00:16:31) roam y -32
+\i (00:16:31) roam x 16
+\i (00:16:31) roam y -16
+\i (00:16:31) roam y -16
+\i (00:16:31) roam end
+\i (00:16:31) pick grid 3318.68 6176.81
+\t (00:16:31) last pick:  3320.00 6175.00
+\i (00:16:32) show element 
+\i (00:16:32) generaledit 
+\i (00:16:34) setwindow text
+\i (00:16:34) close
+\i (00:16:35) setwindow pcb
+\i (00:16:35) pick grid 3225.74 6145.83
+\t (00:16:35) last pick:  3225.00 6145.00
+\i (00:16:35) show element 
+\i (00:16:36) generaledit 
+\i (00:16:38) setwindow text
+\i (00:16:38) close
+\i (00:16:39) setwindow pcb
+\i (00:16:39) pick grid 3390.20 6089.99
+\t (00:16:39) last pick:  3390.00 6090.00
+\i (00:16:39) pick grid 3371.46 6088.84
+\t (00:16:39) last pick:  3370.00 6090.00
+\i (00:16:39) show element 
+\i (00:16:39) generaledit 
+\i (00:16:42) setwindow text
+\i (00:16:42) close
+\i (00:16:43) setwindow pcb
+\i (00:16:43) pick grid 3397.08 5766.81
+\t (00:16:43) last pick:  3395.00 5765.00
+\i (00:16:44) show element 
+\i (00:16:44) generaledit 
+\i (00:16:47) setwindow text
+\i (00:16:47) close
+\i (00:16:48) setwindow pcb
+\i (00:16:48) pick grid 3197.82 5857.46
+\t (00:16:48) last pick:  3200.00 5855.00
+\i (00:16:48) show element 
+\i (00:16:48) generaledit 
+\i (00:16:51) setwindow text
+\i (00:16:51) close
+\i (00:16:51) setwindow pcb
+\i (00:16:51) pick grid 3217.71 5869.31
+\t (00:16:51) last pick:  3220.00 5870.00
+\i (00:16:52) show element 
+\i (00:16:52) generaledit 
+\i (00:16:53) setwindow text
+\i (00:16:53) close
+\i (00:16:54) setwindow pcb
+\i (00:16:54) pick grid 3209.29 5938.15
+\t (00:16:54) last pick:  3210.00 5940.00
+\i (00:16:55) pick grid 3231.48 5940.45
+\t (00:16:55) last pick:  3230.00 5940.00
+\i (00:16:55) show element 
+\i (00:16:55) generaledit 
+\i (00:16:57) setwindow text
+\i (00:16:57) close
+\i (00:16:58) setwindow pcb
+\i (00:16:58) pick grid 3237.98 6205.50
+\t (00:16:58) last pick:  3240.00 6205.00
+\i (00:16:58) show element 
+\i (00:16:58) generaledit 
+\i (00:17:00) setwindow text
+\i (00:17:00) close
+\i (00:17:00) setwindow pcb
+\i (00:17:00) roam start
+\i (00:17:00) roam x 16
+\i (00:17:00) roam x 32
+\i (00:17:00) roam x 48
+\i (00:17:00) roam x 144
+\i (00:17:00) roam x 80
+\i (00:17:00) roam y 16
+\i (00:17:00) roam x 48
+\i (00:17:00) roam y 16
+\i (00:17:00) roam x 112
+\i (00:17:00) roam y 16
+\i (00:17:00) roam x 128
+\i (00:17:00) roam y 32
+\i (00:17:01) roam x 16
+\i (00:17:01) roam y 16
+\i (00:17:01) roam x 96
+\i (00:17:01) roam y 64
+\i (00:17:01) roam x 32
+\i (00:17:01) roam y 16
+\i (00:17:01) roam x 16
+\i (00:17:01) roam y 32
+\i (00:17:01) roam x 16
+\i (00:17:01) roam y 16
+\i (00:17:01) roam y 16
+\i (00:17:01) roam y 16
+\i (00:17:01) roam x 16
+\i (00:17:01) roam y 16
+\i (00:17:01) roam y 16
+\i (00:17:01) roam y 16
+\i (00:17:01) roam y 16
+\i (00:17:01) roam end
+\i (00:17:03) pick grid 3509.14 5860.91
+\t (00:17:03) last pick:  3510.00 5860.00
+\i (00:17:03) show element 
+\i (00:17:03) generaledit 
+\i (00:17:07) setwindow text
+\i (00:17:07) close
+\i (00:17:08) setwindow pcb
+\i (00:17:08) roam start
+\i (00:17:08) roam x 16
+\i (00:17:08) roam x 176
+\i (00:17:08) roam y -16
+\i (00:17:08) roam x 176
+\i (00:17:08) roam y -16
+\i (00:17:08) roam x 192
+\i (00:17:08) roam x 240
+\i (00:17:08) roam y -16
+\i (00:17:08) roam x 80
+\i (00:17:08) roam x 64
+\i (00:17:08) roam x 48
+\i (00:17:08) roam x 32
+\i (00:17:08) roam end
+\i (00:17:10) roam start
+\i (00:17:10) roam y -16
+\i (00:17:10) roam x -48
+\i (00:17:10) roam y -64
+\i (00:17:10) roam x -128
+\i (00:17:10) roam y -176
+\i (00:17:10) roam x -96
+\i (00:17:10) roam y -144
+\i (00:17:10) roam x -48
+\i (00:17:10) roam y -112
+\i (00:17:10) roam y -32
+\i (00:17:10) roam y -16
+\i (00:17:10) roam x -16
+\i (00:17:10) roam y -32
+\i (00:17:10) roam end
+\i (00:17:11) pick grid 3696.93 6133.60
+\t (00:17:11) last pick:  3695.00 6135.00
+\i (00:17:11) show element 
+\i (00:17:11) generaledit 
+\i (00:17:13) setwindow text
+\i (00:17:13) close
+\i (00:17:14) setwindow pcb
+\i (00:17:14) pick grid 3808.99 6204.35
+\t (00:17:14) last pick:  3810.00 6205.00
+\i (00:17:14) show element 
+\i (00:17:14) generaledit 
+\i (00:17:15) setwindow text
+\i (00:17:15) close
+\i (00:17:15) setwindow pcb
+\i (00:17:15) zoom out 1 
+\i (00:17:15) setwindow pcb
+\i (00:17:15) zoom out 3811.67 6100.70
+\i (00:17:15) trapsize 382
+\i (00:17:15) zoom out 1 
+\i (00:17:15) setwindow pcb
+\i (00:17:15) zoom out 3805.55 6099.18
+\i (00:17:15) trapsize 765
+\i (00:17:16) zoom out 1 
+\i (00:17:16) setwindow pcb
+\i (00:17:16) zoom out 3779.54 6125.18
+\i (00:17:16) trapsize 1530
+\i (00:17:16) zoom out 1 
+\i (00:17:16) setwindow pcb
+\i (00:17:16) zoom out 3764.23 6125.18
+\i (00:17:16) trapsize 3060
+\i (00:17:16) zoom in 1 
+\i (00:17:16) setwindow pcb
+\i (00:17:16) zoom in 3739.76 6149.67
+\i (00:17:16) trapsize 1530
+\i (00:17:16) zoom out 1 
+\i (00:17:16) setwindow pcb
+\i (00:17:16) zoom out 4076.33 6342.43
+\i (00:17:16) trapsize 3060
+\i (00:17:17) roam start
+\i (00:17:17) roam y 16
+\i (00:17:17) roam x -144
+\i (00:17:17) roam y 224
+\i (00:17:17) roam x -48
+\i (00:17:17) roam y 304
+\i (00:17:17) roam y 80
+\i (00:17:17) roam y 48
+\i (00:17:18) roam end
+\i (00:17:18) zoom in 1 
+\i (00:17:18) setwindow pcb
+\i (00:17:18) zoom in 823.88 1429.70
+\i (00:17:18) trapsize 1530
+\i (00:17:19) roam start
+\i (00:17:19) roam x 16
+\i (00:17:19) roam x 256
+\i (00:17:19) roam y 48
+\i (00:17:20) roam x 256
+\i (00:17:20) roam y 48
+\i (00:17:20) roam x 304
+\i (00:17:20) roam y -304
+\i (00:17:20) roam x 112
+\i (00:17:20) roam y -128
+\i (00:17:20) roam x -16
+\i (00:17:20) roam x -144
+\i (00:17:20) roam x -272
+\i (00:17:21) roam end
+\i (00:17:21) zoom in 1 
+\i (00:17:21) setwindow pcb
+\i (00:17:21) zoom in 3268.58 1778.50
+\i (00:17:21) trapsize 765
+\i (00:17:21) roam start
+\i (00:17:21) roam x 32
+\i (00:17:21) roam x 256
+\i (00:17:21) roam y 64
+\i (00:17:21) roam x 176
+\i (00:17:21) roam y 80
+\i (00:17:22) roam end
+\i (00:17:57) zoom fit 
+\i (00:17:57) trapsize 2571
+\i (00:17:58) QtSignal ColorVisibilityPane CVPLayerSelectBox clicked false
+\i (00:17:59) updateport CVPane
+\i (00:18:04) ipc2581 out 
+\i (00:18:22) setwindow form.ipc2581_out
+\i (00:18:22) FORM ipc2581_out browse  
+\i (00:18:30) fillin "C:/Jeonghyun/Lab/RFSoC_Frontend17_SIwave/rfmc_frontend_v1_00.xml"
+\i (00:18:32) FORM ipc2581_out export  
+\t (00:18:32) Starting Exporting IPC2581 File...
+\t (00:18:35) SpawnProcessExit background process completed status = 0
+
+\t (00:18:36) IPC2581 output completed.
+\i (00:18:39) setwindow text
+\i (00:18:39) close
+\i (00:18:40) setwindow form.ipc2581_out
+\i (00:18:40) FORM ipc2581_out cancel  
+\i (00:18:40) setwindow pcb
+\i (00:18:40) generaledit 
+\i (00:18:40) exit 
+\e (00:18:40) Do you want to save the changes you made to rfmc_frontend_v1_00.brd?
+\i (00:18:41) fillin yes 
+\t (00:18:42) Lic Summary:
+[14:52:21.131000] Cdslmd servers:C:\Users\alexi\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
+[14:52:21.143000] Feature usage summary:
+[14:52:21.143000] OrCAD_X_PCB_Professional_Plus
+[14:52:21.143000] OrCAD_X_Professional_Plus
+
+\t (00:18:42)     Journal end - Mon Jan  6 14:52:21 2025

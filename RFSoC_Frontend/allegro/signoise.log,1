@@ -1,0 +1,5 @@
+INFO: Loaded existing interconnect file 'C:\JEONGHYUN\LAB\RFSOC_FRONTEND16\allegro\interconn.iml'
+INFO: Loaded existing interconnect file 'C:\Cadence\OrCADX_24.1\share\pcb\signal\cds_interconn.iml'
+INFO: Finished loading SigNoise interconnect libraries
+INFO: Field Solver bem2d for STL_2S_1R_10
+INFO: Executing command: bem2d 0 "C:/Users/alexi/AppData/Local/Temp/#Taaaael04332.in" 0.00127

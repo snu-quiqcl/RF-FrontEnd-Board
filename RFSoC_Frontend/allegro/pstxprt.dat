@@ -1,0 +1,3211 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 24.1.0 d001Jan-06-2025 at 13:41:52 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='RFMC_FRONTEND_V1_00';
+ POST_TIME='Sep  4 2024 20:54:11';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'GRM155R71H102KA01D_CAPC1005X55N_1NF X7R 0402':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS625440@GRM155R71H102KA01D.GRM155R71H102KA01D.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins625440@grm155r71h102ka01d.\grm155r71h102ka01d.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins625440@grm155r71h102ka01d.\grm155r71h102ka01d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1130,120)',
+ SECTION='';
+
+PART_NAME
+ C10 'CL21A475KBQNNNE_CAPC2012X140N_4.7UF X5R 0805':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS619572@CL21A475KBQNNNE.CL21A475KBQNNNE.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins619572@cl21a475kbqnnne.\cl21a475kbqnnne.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins619572@cl21a475kbqnnne.\cl21a475kbqnnne.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,1120)',
+ SECTION='';
+
+PART_NAME
+ C100 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):SPI3@RFMC_FRONTEND_V1_00.SPI(SCH_1):INS362577@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):spi3@rfmc_frontend_v1_00.spi(sch_1):ins362577@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_spi3@rfmc_frontend_v1_00.spi(sch_1):page34_ins362577@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(670,150)',
+ SECTION='';
+
+PART_NAME
+ C101 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):SPI4@RFMC_FRONTEND_V1_00.SPI(SCH_1):INS362553@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):spi4@rfmc_frontend_v1_00.spi(sch_1):ins362553@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_spi4@rfmc_frontend_v1_00.spi(sch_1):page35_ins362553@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,150)',
+ SECTION='';
+
+PART_NAME
+ C102 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):SPI4@RFMC_FRONTEND_V1_00.SPI(SCH_1):INS362577@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):spi4@rfmc_frontend_v1_00.spi(sch_1):ins362577@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_spi4@rfmc_frontend_v1_00.spi(sch_1):page35_ins362577@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(670,150)',
+ SECTION='';
+
+PART_NAME
+ C103 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):SPI5@RFMC_FRONTEND_V1_00.SPI(SCH_1):INS362553@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):spi5@rfmc_frontend_v1_00.spi(sch_1):ins362553@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_spi5@rfmc_frontend_v1_00.spi(sch_1):page36_ins362553@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,150)',
+ SECTION='';
+
+PART_NAME
+ C104 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):SPI5@RFMC_FRONTEND_V1_00.SPI(SCH_1):INS362577@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):spi5@rfmc_frontend_v1_00.spi(sch_1):ins362577@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_spi5@rfmc_frontend_v1_00.spi(sch_1):page36_ins362577@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(670,150)',
+ SECTION='';
+
+PART_NAME
+ C11 'CL21A475KBQNNNE_CAPC2012X140N_4.7UF X5R 0805':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS643063@CL21A475KBQNNNE.CL21A475KBQNNNE.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins643063@cl21a475kbqnnne.\cl21a475kbqnnne.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins643063@cl21a475kbqnnne.\cl21a475kbqnnne.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(380,1120)',
+ SECTION='';
+
+PART_NAME
+ C12 'CL21A475KBQNNNE_CAPC2012X140N_4.7UF X5R 0805':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS643245@CL21A475KBQNNNE.CL21A475KBQNNNE.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins643245@cl21a475kbqnnne.\cl21a475kbqnnne.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins643245@cl21a475kbqnnne.\cl21a475kbqnnne.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(460,1120)',
+ SECTION='';
+
+PART_NAME
+ C13 'GRM158R61A226ME15D_GRM15X_22UF X5R 0402':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS623525@GRM158R61A226ME15D.GRM158R61A226ME15D.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins623525@grm158r61a226me15d.\grm158r61a226me15d.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins623525@grm158r61a226me15d.\grm158r61a226me15d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(610,1120)',
+ SECTION='';
+
+PART_NAME
+ C14 'GRM158R61A226ME15D_GRM15X_22UF X5R 0402':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS623673@GRM158R61A226ME15D.GRM158R61A226ME15D.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins623673@grm158r61a226me15d.\grm158r61a226me15d.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins623673@grm158r61a226me15d.\grm158r61a226me15d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(690,1120)',
+ SECTION='';
+
+PART_NAME
+ C15 'GRM158R61A226ME15D_GRM15X_22UF X5R 0402':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS623757@GRM158R61A226ME15D.GRM158R61A226ME15D.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins623757@grm158r61a226me15d.\grm158r61a226me15d.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins623757@grm158r61a226me15d.\grm158r61a226me15d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(770,1120)',
+ SECTION='';
+
+PART_NAME
+ C16 'GRM158R61A226ME15D_GRM15X_22UF X5R 0402':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS623843@GRM158R61A226ME15D.GRM158R61A226ME15D.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins623843@grm158r61a226me15d.\grm158r61a226me15d.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins623843@grm158r61a226me15d.\grm158r61a226me15d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,1120)',
+ SECTION='';
+
+PART_NAME
+ C17 'GRM158R61A226ME15D_GRM15X_22UF X5R 0402':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS624093@GRM158R61A226ME15D.GRM158R61A226ME15D.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins624093@grm158r61a226me15d.\grm158r61a226me15d.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins624093@grm158r61a226me15d.\grm158r61a226me15d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(960,1120)',
+ SECTION='';
+
+PART_NAME
+ C18 'GRM158R61A226ME15D_GRM15X_22UF X5R 0402':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS624117@GRM158R61A226ME15D.GRM158R61A226ME15D.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins624117@grm158r61a226me15d.\grm158r61a226me15d.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins624117@grm158r61a226me15d.\grm158r61a226me15d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1040,1120)',
+ SECTION='';
+
+PART_NAME
+ C19 'GRM158R61A226ME15D_GRM15X_22UF X5R 0402':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS624141@GRM158R61A226ME15D.GRM158R61A226ME15D.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins624141@grm158r61a226me15d.\grm158r61a226me15d.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins624141@grm158r61a226me15d.\grm158r61a226me15d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1120,1120)',
+ SECTION='';
+
+PART_NAME
+ C2 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS661861@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins661861@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins661861@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(340,210)',
+ SECTION='';
+
+PART_NAME
+ C20 'GRM158R61A226ME15D_GRM15X_22UF X5R 0402':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS624165@GRM158R61A226ME15D.GRM158R61A226ME15D.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins624165@grm158r61a226me15d.\grm158r61a226me15d.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins624165@grm158r61a226me15d.\grm158r61a226me15d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1200,1120)',
+ SECTION='';
+
+PART_NAME
+ C21 'GRM21BR61A476ME15K_CAPC2012X145N_47UF X5R 0805':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS570908@GRM21BR61A476ME15K.GRM21BR61A476ME15K.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins570908@grm21br61a476me15k.\grm21br61a476me15k.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins570908@grm21br61a476me15k.\grm21br61a476me15k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(220,1250)',
+ SECTION='';
+
+PART_NAME
+ C22 'GRM21BR61A476ME15K_CAPC2012X145N_47UF X5R 0805':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS571955@GRM21BR61A476ME15K.GRM21BR61A476ME15K.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins571955@grm21br61a476me15k.\grm21br61a476me15k.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins571955@grm21br61a476me15k.\grm21br61a476me15k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,1250)',
+ SECTION='';
+
+PART_NAME
+ C23 'GRM21BR61A476ME15K_CAPC2012X145N_47UF X5R 0805':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS623327@GRM21BR61A476ME15K.GRM21BR61A476ME15K.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins623327@grm21br61a476me15k.\grm21br61a476me15k.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins623327@grm21br61a476me15k.\grm21br61a476me15k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(420,1250)',
+ SECTION='';
+
+PART_NAME
+ C24 'GRM21BR61A476ME15K_CAPC2012X145N_47UF X5R 0805':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS623351@GRM21BR61A476ME15K.GRM21BR61A476ME15K.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins623351@grm21br61a476me15k.\grm21br61a476me15k.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins623351@grm21br61a476me15k.\grm21br61a476me15k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(500,1250)',
+ SECTION='';
+
+PART_NAME
+ C25 'CL05A475MO5NUNC_CAPC1005X90N_4.7UF X5R 0402':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS539099@CL05A475MO5NUNC.CL05A475MO5NUNC.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins539099@cl05a475mo5nunc.\cl05a475mo5nunc.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins539099@cl05a475mo5nunc.\cl05a475mo5nunc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(610,1250)',
+ SECTION='';
+
+PART_NAME
+ C26 'CL05A475MO5NUNC_CAPC1005X90N_4.7UF X5R 0402':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS625003@CL05A475MO5NUNC.CL05A475MO5NUNC.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins625003@cl05a475mo5nunc.\cl05a475mo5nunc.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins625003@cl05a475mo5nunc.\cl05a475mo5nunc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(690,1250)',
+ SECTION='';
+
+PART_NAME
+ C27 'CL05A475MO5NUNC_CAPC1005X90N_4.7UF X5R 0402':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS625103@CL05A475MO5NUNC.CL05A475MO5NUNC.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins625103@cl05a475mo5nunc.\cl05a475mo5nunc.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins625103@cl05a475mo5nunc.\cl05a475mo5nunc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(790,1250)',
+ SECTION='';
+
+PART_NAME
+ C28 'CL05A475MO5NUNC_CAPC1005X90N_4.7UF X5R 0402':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS625201@CL05A475MO5NUNC.CL05A475MO5NUNC.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins625201@cl05a475mo5nunc.\cl05a475mo5nunc.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins625201@cl05a475mo5nunc.\cl05a475mo5nunc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(870,1250)',
+ SECTION='';
+
+PART_NAME
+ C29 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG1@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23353@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog1@rfmc_frontend_v1_00.analog(sch_1):ins23353@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog1@rfmc_frontend_v1_00.analog(sch_1):page7_ins23353@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,120)',
+ SECTION='';
+
+PART_NAME
+ C3 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS661897@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins661897@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins661897@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,210)',
+ SECTION='';
+
+PART_NAME
+ C30 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG1@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23575@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog1@rfmc_frontend_v1_00.analog(sch_1):ins23575@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog1@rfmc_frontend_v1_00.analog(sch_1):page7_ins23575@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,230)',
+ SECTION='';
+
+PART_NAME
+ C31 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG1@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23767@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog1@rfmc_frontend_v1_00.analog(sch_1):ins23767@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog1@rfmc_frontend_v1_00.analog(sch_1):page7_ins23767@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,410)',
+ SECTION='';
+
+PART_NAME
+ C32 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG1@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23945@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog1@rfmc_frontend_v1_00.analog(sch_1):ins23945@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog1@rfmc_frontend_v1_00.analog(sch_1):page7_ins23945@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,520)',
+ SECTION='';
+
+PART_NAME
+ C33 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG2@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23353@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog2@rfmc_frontend_v1_00.analog(sch_1):ins23353@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog2@rfmc_frontend_v1_00.analog(sch_1):page8_ins23353@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,120)',
+ SECTION='';
+
+PART_NAME
+ C34 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG2@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23575@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog2@rfmc_frontend_v1_00.analog(sch_1):ins23575@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog2@rfmc_frontend_v1_00.analog(sch_1):page8_ins23575@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,230)',
+ SECTION='';
+
+PART_NAME
+ C35 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG2@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23767@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog2@rfmc_frontend_v1_00.analog(sch_1):ins23767@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog2@rfmc_frontend_v1_00.analog(sch_1):page8_ins23767@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,410)',
+ SECTION='';
+
+PART_NAME
+ C36 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG2@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23945@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog2@rfmc_frontend_v1_00.analog(sch_1):ins23945@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog2@rfmc_frontend_v1_00.analog(sch_1):page8_ins23945@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,520)',
+ SECTION='';
+
+PART_NAME
+ C37 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG3@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23353@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog3@rfmc_frontend_v1_00.analog(sch_1):ins23353@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog3@rfmc_frontend_v1_00.analog(sch_1):page9_ins23353@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,120)',
+ SECTION='';
+
+PART_NAME
+ C38 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG3@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23575@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog3@rfmc_frontend_v1_00.analog(sch_1):ins23575@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog3@rfmc_frontend_v1_00.analog(sch_1):page9_ins23575@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,230)',
+ SECTION='';
+
+PART_NAME
+ C39 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG3@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23767@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog3@rfmc_frontend_v1_00.analog(sch_1):ins23767@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog3@rfmc_frontend_v1_00.analog(sch_1):page9_ins23767@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,410)',
+ SECTION='';
+
+PART_NAME
+ C4 'GRM155R71H102KA01D_CAPC1005X55N_1NF X7R 0402':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS625589@GRM155R71H102KA01D.GRM155R71H102KA01D.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins625589@grm155r71h102ka01d.\grm155r71h102ka01d.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins625589@grm155r71h102ka01d.\grm155r71h102ka01d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1130,330)',
+ SECTION='';
+
+PART_NAME
+ C40 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG3@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23945@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog3@rfmc_frontend_v1_00.analog(sch_1):ins23945@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog3@rfmc_frontend_v1_00.analog(sch_1):page9_ins23945@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,520)',
+ SECTION='';
+
+PART_NAME
+ C41 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG4@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23353@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog4@rfmc_frontend_v1_00.analog(sch_1):ins23353@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog4@rfmc_frontend_v1_00.analog(sch_1):page10_ins23353@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,120)',
+ SECTION='';
+
+PART_NAME
+ C42 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG4@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23575@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog4@rfmc_frontend_v1_00.analog(sch_1):ins23575@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog4@rfmc_frontend_v1_00.analog(sch_1):page10_ins23575@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,230)',
+ SECTION='';
+
+PART_NAME
+ C43 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG4@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23767@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog4@rfmc_frontend_v1_00.analog(sch_1):ins23767@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog4@rfmc_frontend_v1_00.analog(sch_1):page10_ins23767@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,410)',
+ SECTION='';
+
+PART_NAME
+ C44 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG4@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23945@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog4@rfmc_frontend_v1_00.analog(sch_1):ins23945@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog4@rfmc_frontend_v1_00.analog(sch_1):page10_ins23945@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,520)',
+ SECTION='';
+
+PART_NAME
+ C45 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG5@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23353@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog5@rfmc_frontend_v1_00.analog(sch_1):ins23353@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog5@rfmc_frontend_v1_00.analog(sch_1):page11_ins23353@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,120)',
+ SECTION='';
+
+PART_NAME
+ C46 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG5@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23575@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog5@rfmc_frontend_v1_00.analog(sch_1):ins23575@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog5@rfmc_frontend_v1_00.analog(sch_1):page11_ins23575@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,230)',
+ SECTION='';
+
+PART_NAME
+ C47 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG5@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23767@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog5@rfmc_frontend_v1_00.analog(sch_1):ins23767@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog5@rfmc_frontend_v1_00.analog(sch_1):page11_ins23767@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,410)',
+ SECTION='';
+
+PART_NAME
+ C48 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG5@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23945@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog5@rfmc_frontend_v1_00.analog(sch_1):ins23945@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog5@rfmc_frontend_v1_00.analog(sch_1):page11_ins23945@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,520)',
+ SECTION='';
+
+PART_NAME
+ C49 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG6@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23353@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog6@rfmc_frontend_v1_00.analog(sch_1):ins23353@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog6@rfmc_frontend_v1_00.analog(sch_1):page12_ins23353@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,120)',
+ SECTION='';
+
+PART_NAME
+ C5 'GRM155R71H102KA01D_CAPC1005X55N_1NF X7R 0402':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS634385@GRM155R71H102KA01D.GRM155R71H102KA01D.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins634385@grm155r71h102ka01d.\grm155r71h102ka01d.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins634385@grm155r71h102ka01d.\grm155r71h102ka01d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1130,560)',
+ SECTION='';
+
+PART_NAME
+ C50 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG6@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23575@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog6@rfmc_frontend_v1_00.analog(sch_1):ins23575@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog6@rfmc_frontend_v1_00.analog(sch_1):page12_ins23575@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,230)',
+ SECTION='';
+
+PART_NAME
+ C51 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG6@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23767@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog6@rfmc_frontend_v1_00.analog(sch_1):ins23767@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog6@rfmc_frontend_v1_00.analog(sch_1):page12_ins23767@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,410)',
+ SECTION='';
+
+PART_NAME
+ C52 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG6@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23945@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog6@rfmc_frontend_v1_00.analog(sch_1):ins23945@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog6@rfmc_frontend_v1_00.analog(sch_1):page12_ins23945@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,520)',
+ SECTION='';
+
+PART_NAME
+ C53 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG7@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23353@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog7@rfmc_frontend_v1_00.analog(sch_1):ins23353@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog7@rfmc_frontend_v1_00.analog(sch_1):page13_ins23353@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,120)',
+ SECTION='';
+
+PART_NAME
+ C54 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG7@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23575@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog7@rfmc_frontend_v1_00.analog(sch_1):ins23575@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog7@rfmc_frontend_v1_00.analog(sch_1):page13_ins23575@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,230)',
+ SECTION='';
+
+PART_NAME
+ C55 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG7@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23767@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog7@rfmc_frontend_v1_00.analog(sch_1):ins23767@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog7@rfmc_frontend_v1_00.analog(sch_1):page13_ins23767@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,410)',
+ SECTION='';
+
+PART_NAME
+ C56 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG7@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23945@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog7@rfmc_frontend_v1_00.analog(sch_1):ins23945@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog7@rfmc_frontend_v1_00.analog(sch_1):page13_ins23945@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,520)',
+ SECTION='';
+
+PART_NAME
+ C57 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG8@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23353@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog8@rfmc_frontend_v1_00.analog(sch_1):ins23353@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog8@rfmc_frontend_v1_00.analog(sch_1):page14_ins23353@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,120)',
+ SECTION='';
+
+PART_NAME
+ C58 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG8@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23575@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog8@rfmc_frontend_v1_00.analog(sch_1):ins23575@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog8@rfmc_frontend_v1_00.analog(sch_1):page14_ins23575@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,230)',
+ SECTION='';
+
+PART_NAME
+ C59 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG8@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23767@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog8@rfmc_frontend_v1_00.analog(sch_1):ins23767@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog8@rfmc_frontend_v1_00.analog(sch_1):page14_ins23767@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,410)',
+ SECTION='';
+
+PART_NAME
+ C6 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS662827@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins662827@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins662827@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(340,650)',
+ SECTION='';
+
+PART_NAME
+ C60 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG8@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23945@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog8@rfmc_frontend_v1_00.analog(sch_1):ins23945@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog8@rfmc_frontend_v1_00.analog(sch_1):page14_ins23945@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,520)',
+ SECTION='';
+
+PART_NAME
+ C61 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL12@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214190@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital12@rfmc_frontend_v1_00.digital(sch_1):ins214190@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital12@rfmc_frontend_v1_00.digital(sch_1):page15_ins214190@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,240)',
+ SECTION='';
+
+PART_NAME
+ C62 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL12@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214214@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital12@rfmc_frontend_v1_00.digital(sch_1):ins214214@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital12@rfmc_frontend_v1_00.digital(sch_1):page15_ins214214@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,240)',
+ SECTION='';
+
+PART_NAME
+ C63 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL13@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214190@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital13@rfmc_frontend_v1_00.digital(sch_1):ins214190@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital13@rfmc_frontend_v1_00.digital(sch_1):page16_ins214190@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,240)',
+ SECTION='';
+
+PART_NAME
+ C64 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL13@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214214@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital13@rfmc_frontend_v1_00.digital(sch_1):ins214214@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital13@rfmc_frontend_v1_00.digital(sch_1):page16_ins214214@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,240)',
+ SECTION='';
+
+PART_NAME
+ C65 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL14@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214190@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital14@rfmc_frontend_v1_00.digital(sch_1):ins214190@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital14@rfmc_frontend_v1_00.digital(sch_1):page17_ins214190@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,240)',
+ SECTION='';
+
+PART_NAME
+ C66 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL14@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214214@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital14@rfmc_frontend_v1_00.digital(sch_1):ins214214@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital14@rfmc_frontend_v1_00.digital(sch_1):page17_ins214214@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,240)',
+ SECTION='';
+
+PART_NAME
+ C67 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL15@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214190@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital15@rfmc_frontend_v1_00.digital(sch_1):ins214190@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital15@rfmc_frontend_v1_00.digital(sch_1):page18_ins214190@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,240)',
+ SECTION='';
+
+PART_NAME
+ C68 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL15@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214214@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital15@rfmc_frontend_v1_00.digital(sch_1):ins214214@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital15@rfmc_frontend_v1_00.digital(sch_1):page18_ins214214@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,240)',
+ SECTION='';
+
+PART_NAME
+ C69 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL16@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214190@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital16@rfmc_frontend_v1_00.digital(sch_1):ins214190@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital16@rfmc_frontend_v1_00.digital(sch_1):page19_ins214190@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,240)',
+ SECTION='';
+
+PART_NAME
+ C7 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS662851@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins662851@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins662851@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,650)',
+ SECTION='';
+
+PART_NAME
+ C70 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL16@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214214@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital16@rfmc_frontend_v1_00.digital(sch_1):ins214214@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital16@rfmc_frontend_v1_00.digital(sch_1):page19_ins214214@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,240)',
+ SECTION='';
+
+PART_NAME
+ C71 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL17@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214190@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital17@rfmc_frontend_v1_00.digital(sch_1):ins214190@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital17@rfmc_frontend_v1_00.digital(sch_1):page20_ins214190@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,240)',
+ SECTION='';
+
+PART_NAME
+ C72 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL17@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214214@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital17@rfmc_frontend_v1_00.digital(sch_1):ins214214@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital17@rfmc_frontend_v1_00.digital(sch_1):page20_ins214214@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,240)',
+ SECTION='';
+
+PART_NAME
+ C73 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL18@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214190@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital18@rfmc_frontend_v1_00.digital(sch_1):ins214190@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital18@rfmc_frontend_v1_00.digital(sch_1):page21_ins214190@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,240)',
+ SECTION='';
+
+PART_NAME
+ C74 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL18@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214214@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital18@rfmc_frontend_v1_00.digital(sch_1):ins214214@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital18@rfmc_frontend_v1_00.digital(sch_1):page21_ins214214@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,240)',
+ SECTION='';
+
+PART_NAME
+ C75 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL19@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214190@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital19@rfmc_frontend_v1_00.digital(sch_1):ins214190@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital19@rfmc_frontend_v1_00.digital(sch_1):page22_ins214190@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,240)',
+ SECTION='';
+
+PART_NAME
+ C76 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL19@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214214@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital19@rfmc_frontend_v1_00.digital(sch_1):ins214214@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital19@rfmc_frontend_v1_00.digital(sch_1):page22_ins214214@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,240)',
+ SECTION='';
+
+PART_NAME
+ C77 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL1@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214190@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital1@rfmc_frontend_v1_00.digital(sch_1):ins214190@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital1@rfmc_frontend_v1_00.digital(sch_1):page23_ins214190@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,240)',
+ SECTION='';
+
+PART_NAME
+ C78 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL1@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214214@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital1@rfmc_frontend_v1_00.digital(sch_1):ins214214@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital1@rfmc_frontend_v1_00.digital(sch_1):page23_ins214214@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,240)',
+ SECTION='';
+
+PART_NAME
+ C79 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL2@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214190@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital2@rfmc_frontend_v1_00.digital(sch_1):ins214190@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital2@rfmc_frontend_v1_00.digital(sch_1):page24_ins214190@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,240)',
+ SECTION='';
+
+PART_NAME
+ C8 'GRM155R71H102KA01D_CAPC1005X55N_1NF X7R 0402':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS634543@GRM155R71H102KA01D.GRM155R71H102KA01D.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins634543@grm155r71h102ka01d.\grm155r71h102ka01d.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins634543@grm155r71h102ka01d.\grm155r71h102ka01d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1130,770)',
+ SECTION='';
+
+PART_NAME
+ C80 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL2@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214214@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital2@rfmc_frontend_v1_00.digital(sch_1):ins214214@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital2@rfmc_frontend_v1_00.digital(sch_1):page24_ins214214@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,240)',
+ SECTION='';
+
+PART_NAME
+ C81 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL34@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214190@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital34@rfmc_frontend_v1_00.digital(sch_1):ins214190@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital34@rfmc_frontend_v1_00.digital(sch_1):page25_ins214190@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,240)',
+ SECTION='';
+
+PART_NAME
+ C82 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL34@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214214@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital34@rfmc_frontend_v1_00.digital(sch_1):ins214214@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital34@rfmc_frontend_v1_00.digital(sch_1):page25_ins214214@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,240)',
+ SECTION='';
+
+PART_NAME
+ C83 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL35@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214190@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital35@rfmc_frontend_v1_00.digital(sch_1):ins214190@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital35@rfmc_frontend_v1_00.digital(sch_1):page26_ins214190@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,240)',
+ SECTION='';
+
+PART_NAME
+ C84 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL35@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214214@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital35@rfmc_frontend_v1_00.digital(sch_1):ins214214@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital35@rfmc_frontend_v1_00.digital(sch_1):page26_ins214214@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,240)',
+ SECTION='';
+
+PART_NAME
+ C85 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL36@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214190@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital36@rfmc_frontend_v1_00.digital(sch_1):ins214190@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital36@rfmc_frontend_v1_00.digital(sch_1):page27_ins214190@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,240)',
+ SECTION='';
+
+PART_NAME
+ C86 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL36@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214214@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital36@rfmc_frontend_v1_00.digital(sch_1):ins214214@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital36@rfmc_frontend_v1_00.digital(sch_1):page27_ins214214@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,240)',
+ SECTION='';
+
+PART_NAME
+ C87 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL37@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214190@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital37@rfmc_frontend_v1_00.digital(sch_1):ins214190@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital37@rfmc_frontend_v1_00.digital(sch_1):page28_ins214190@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,240)',
+ SECTION='';
+
+PART_NAME
+ C88 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL37@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214214@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital37@rfmc_frontend_v1_00.digital(sch_1):ins214214@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital37@rfmc_frontend_v1_00.digital(sch_1):page28_ins214214@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,240)',
+ SECTION='';
+
+PART_NAME
+ C89 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL38@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214190@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital38@rfmc_frontend_v1_00.digital(sch_1):ins214190@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital38@rfmc_frontend_v1_00.digital(sch_1):page29_ins214190@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,240)',
+ SECTION='';
+
+PART_NAME
+ C9 'CL21A475KBQNNNE_CAPC2012X140N_4.7UF X5R 0805':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS619376@CL21A475KBQNNNE.CL21A475KBQNNNE.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins619376@cl21a475kbqnnne.\cl21a475kbqnnne.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins619376@cl21a475kbqnnne.\cl21a475kbqnnne.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(220,1120)',
+ SECTION='';
+
+PART_NAME
+ C90 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL38@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214214@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital38@rfmc_frontend_v1_00.digital(sch_1):ins214214@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital38@rfmc_frontend_v1_00.digital(sch_1):page29_ins214214@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,240)',
+ SECTION='';
+
+PART_NAME
+ C91 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL39@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214190@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital39@rfmc_frontend_v1_00.digital(sch_1):ins214190@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital39@rfmc_frontend_v1_00.digital(sch_1):page30_ins214190@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,240)',
+ SECTION='';
+
+PART_NAME
+ C92 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL39@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214214@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital39@rfmc_frontend_v1_00.digital(sch_1):ins214214@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital39@rfmc_frontend_v1_00.digital(sch_1):page30_ins214214@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,240)',
+ SECTION='';
+
+PART_NAME
+ C93 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):SPI0@RFMC_FRONTEND_V1_00.SPI(SCH_1):INS362553@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):spi0@rfmc_frontend_v1_00.spi(sch_1):ins362553@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_spi0@rfmc_frontend_v1_00.spi(sch_1):page31_ins362553@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,150)',
+ SECTION='';
+
+PART_NAME
+ C94 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):SPI0@RFMC_FRONTEND_V1_00.SPI(SCH_1):INS362577@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):spi0@rfmc_frontend_v1_00.spi(sch_1):ins362577@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_spi0@rfmc_frontend_v1_00.spi(sch_1):page31_ins362577@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(670,150)',
+ SECTION='';
+
+PART_NAME
+ C95 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):SPI1@RFMC_FRONTEND_V1_00.SPI(SCH_1):INS362553@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):spi1@rfmc_frontend_v1_00.spi(sch_1):ins362553@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_spi1@rfmc_frontend_v1_00.spi(sch_1):page32_ins362553@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,150)',
+ SECTION='';
+
+PART_NAME
+ C96 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):SPI1@RFMC_FRONTEND_V1_00.SPI(SCH_1):INS362577@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):spi1@rfmc_frontend_v1_00.spi(sch_1):ins362577@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_spi1@rfmc_frontend_v1_00.spi(sch_1):page32_ins362577@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(670,150)',
+ SECTION='';
+
+PART_NAME
+ C97 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):SPI2@RFMC_FRONTEND_V1_00.SPI(SCH_1):INS362553@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):spi2@rfmc_frontend_v1_00.spi(sch_1):ins362553@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_spi2@rfmc_frontend_v1_00.spi(sch_1):page33_ins362553@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,150)',
+ SECTION='';
+
+PART_NAME
+ C98 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):SPI2@RFMC_FRONTEND_V1_00.SPI(SCH_1):INS362577@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):spi2@rfmc_frontend_v1_00.spi(sch_1):ins362577@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_spi2@rfmc_frontend_v1_00.spi(sch_1):page33_ins362577@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(670,150)',
+ SECTION='';
+
+PART_NAME
+ C99 'TMK105BJ104KV-F_CAPC1005X55N_100NF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):SPI3@RFMC_FRONTEND_V1_00.SPI(SCH_1):INS362553@TMK105BJ104KV-F.TMK105BJ104KV-F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):spi3@rfmc_frontend_v1_00.spi(sch_1):ins362553@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_spi3@rfmc_frontend_v1_00.spi(sch_1):page34_ins362553@\tmk105bj104kv-f\.\tmk105bj104kv-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,150)',
+ SECTION='';
+
+PART_NAME
+ FL1 'LFCG-1000+_LFCG1000_LPF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG1@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23473@LFCG-1000+.LFCG-1000+.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog1@rfmc_frontend_v1_00.analog(sch_1):ins23473@\lfcg-1000+\.\lfcg-1000+.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog1@rfmc_frontend_v1_00.analog(sch_1):page7_ins23473@\lfcg-1000+\.\lfcg-1000+.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,190)',
+ SECTION='';
+
+PART_NAME
+ FL2 'LFCG-1000+_LFCG1000_LPF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG2@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23473@LFCG-1000+.LFCG-1000+.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog2@rfmc_frontend_v1_00.analog(sch_1):ins23473@\lfcg-1000+\.\lfcg-1000+.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog2@rfmc_frontend_v1_00.analog(sch_1):page8_ins23473@\lfcg-1000+\.\lfcg-1000+.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,190)',
+ SECTION='';
+
+PART_NAME
+ FL3 'LFCG-1000+_LFCG1000_LPF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG3@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23473@LFCG-1000+.LFCG-1000+.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog3@rfmc_frontend_v1_00.analog(sch_1):ins23473@\lfcg-1000+\.\lfcg-1000+.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog3@rfmc_frontend_v1_00.analog(sch_1):page9_ins23473@\lfcg-1000+\.\lfcg-1000+.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,190)',
+ SECTION='';
+
+PART_NAME
+ FL4 'LFCG-1000+_LFCG1000_LPF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG4@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23473@LFCG-1000+.LFCG-1000+.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog4@rfmc_frontend_v1_00.analog(sch_1):ins23473@\lfcg-1000+\.\lfcg-1000+.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog4@rfmc_frontend_v1_00.analog(sch_1):page10_ins23473@\lfcg-1000+\.\lfcg-1000+.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,190)',
+ SECTION='';
+
+PART_NAME
+ FL5 'LFCG-1000+_LFCG1000_LPF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG5@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23473@LFCG-1000+.LFCG-1000+.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog5@rfmc_frontend_v1_00.analog(sch_1):ins23473@\lfcg-1000+\.\lfcg-1000+.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog5@rfmc_frontend_v1_00.analog(sch_1):page11_ins23473@\lfcg-1000+\.\lfcg-1000+.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,190)',
+ SECTION='';
+
+PART_NAME
+ FL6 'LFCG-1000+_LFCG1000_LPF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG6@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23473@LFCG-1000+.LFCG-1000+.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog6@rfmc_frontend_v1_00.analog(sch_1):ins23473@\lfcg-1000+\.\lfcg-1000+.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog6@rfmc_frontend_v1_00.analog(sch_1):page12_ins23473@\lfcg-1000+\.\lfcg-1000+.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,190)',
+ SECTION='';
+
+PART_NAME
+ FL7 'LFCG-1000+_LFCG1000_LPF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG7@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23473@LFCG-1000+.LFCG-1000+.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog7@rfmc_frontend_v1_00.analog(sch_1):ins23473@\lfcg-1000+\.\lfcg-1000+.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog7@rfmc_frontend_v1_00.analog(sch_1):page13_ins23473@\lfcg-1000+\.\lfcg-1000+.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,190)',
+ SECTION='';
+
+PART_NAME
+ FL8 'LFCG-1000+_LFCG1000_LPF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG8@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23473@LFCG-1000+.LFCG-1000+.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog8@rfmc_frontend_v1_00.analog(sch_1):ins23473@\lfcg-1000+\.\lfcg-1000+.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog8@rfmc_frontend_v1_00.analog(sch_1):page14_ins23473@\lfcg-1000+\.\lfcg-1000+.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,190)',
+ SECTION='';
+
+PART_NAME
+ IC1 'LTM4622AIY#PBF_BGA25C127P5X5_625X625X262_LTM4622AIY#PBF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS616957@LTM4622AIY#PBF.LTM4622AIY#PBF.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins616957@\ltm4622aiy#pbf\.\ltm4622aiy#pbf.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins616957@\ltm4622aiy#pbf\.\ltm4622aiy#pbf.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(460,80)',
+ SECTION='A';
+
+PART_NAME
+ IC10 'SN74AXC4T774RSVR_QFN40P180X260X55-16N_SN74AXC4T774RSVR':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):SPI3@RFMC_FRONTEND_V1_00.SPI(SCH_1):INS54@SN74AXC4T774RSVR.SN74AXC4T774RSVR.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):spi3@rfmc_frontend_v1_00.spi(sch_1):ins54@sn74axc4t774rsvr.\sn74axc4t774rsvr.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_spi3@rfmc_frontend_v1_00.spi(sch_1):page34_ins54@sn74axc4t774rsvr.\sn74axc4t774rsvr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(430,190)',
+ SECTION='';
+
+PART_NAME
+ IC11 'SN74AXC4T774RSVR_QFN40P180X260X55-16N_SN74AXC4T774RSVR':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):SPI4@RFMC_FRONTEND_V1_00.SPI(SCH_1):INS54@SN74AXC4T774RSVR.SN74AXC4T774RSVR.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):spi4@rfmc_frontend_v1_00.spi(sch_1):ins54@sn74axc4t774rsvr.\sn74axc4t774rsvr.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_spi4@rfmc_frontend_v1_00.spi(sch_1):page35_ins54@sn74axc4t774rsvr.\sn74axc4t774rsvr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(430,190)',
+ SECTION='';
+
+PART_NAME
+ IC12 'SN74AXC4T774RSVR_QFN40P180X260X55-16N_SN74AXC4T774RSVR':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):SPI5@RFMC_FRONTEND_V1_00.SPI(SCH_1):INS54@SN74AXC4T774RSVR.SN74AXC4T774RSVR.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):spi5@rfmc_frontend_v1_00.spi(sch_1):ins54@sn74axc4t774rsvr.\sn74axc4t774rsvr.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_spi5@rfmc_frontend_v1_00.spi(sch_1):page36_ins54@sn74axc4t774rsvr.\sn74axc4t774rsvr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(430,190)',
+ SECTION='';
+
+PART_NAME
+ IC2 'ADM7172ACPZ-1.8-R7_SON50P300X300X80-9N-D_ADM7172ACPZ-1.8-R7':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS619035@ADM7172ACPZ-1.8-R7.ADM7172ACPZ-1.8-R7.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins619035@\adm7172acpz-1.8-r7\.\adm7172acpz-1.8-r7.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins619035@\adm7172acpz-1.8-r7\.\adm7172acpz-1.8-r7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(990,60)',
+ SECTION='';
+
+PART_NAME
+ IC3 'ADM7172ACPZ-3.3-R7_SON50P300X300X80-9N-D_ADM7172ACPZ-3.3-R7':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS618543@ADM7172ACPZ-3.3-R7.ADM7172ACPZ-3.3-R7.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins618543@\adm7172acpz-3.3-r7\.\adm7172acpz-3.3-r7.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins618543@\adm7172acpz-3.3-r7\.\adm7172acpz-3.3-r7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(990,270)',
+ SECTION='';
+
+PART_NAME
+ IC4 'LTM4622AIY#PBF_BGA25C127P5X5_625X625X262_LTM4622AIY#PBF':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS632973@LTM4622AIY#PBF.LTM4622AIY#PBF.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins632973@\ltm4622aiy#pbf\.\ltm4622aiy#pbf.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins632973@\ltm4622aiy#pbf\.\ltm4622aiy#pbf.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(460,520)',
+ SECTION='A';
+
+PART_NAME
+ IC5 'ADM7172ACPZ-1.8-R7_SON50P300X300X80-9N-D_ADM7172ACPZ-1.8-R7':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS634299@ADM7172ACPZ-1.8-R7.ADM7172ACPZ-1.8-R7.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins634299@\adm7172acpz-1.8-r7\.\adm7172acpz-1.8-r7.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins634299@\adm7172acpz-1.8-r7\.\adm7172acpz-1.8-r7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(990,500)',
+ SECTION='';
+
+PART_NAME
+ IC6 'ADM7172ACPZ-3.3-R7_SON50P300X300X80-9N-D_ADM7172ACPZ-3.3-R7':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS634465@ADM7172ACPZ-3.3-R7.ADM7172ACPZ-3.3-R7.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins634465@\adm7172acpz-3.3-r7\.\adm7172acpz-3.3-r7.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins634465@\adm7172acpz-3.3-r7\.\adm7172acpz-3.3-r7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(990,710)',
+ SECTION='';
+
+PART_NAME
+ IC7 'SN74AXC4T774RSVR_QFN40P180X260X55-16N_SN74AXC4T774RSVR':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):SPI0@RFMC_FRONTEND_V1_00.SPI(SCH_1):INS54@SN74AXC4T774RSVR.SN74AXC4T774RSVR.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):spi0@rfmc_frontend_v1_00.spi(sch_1):ins54@sn74axc4t774rsvr.\sn74axc4t774rsvr.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_spi0@rfmc_frontend_v1_00.spi(sch_1):page31_ins54@sn74axc4t774rsvr.\sn74axc4t774rsvr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(430,190)',
+ SECTION='';
+
+PART_NAME
+ IC8 'SN74AXC4T774RSVR_QFN40P180X260X55-16N_SN74AXC4T774RSVR':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):SPI1@RFMC_FRONTEND_V1_00.SPI(SCH_1):INS54@SN74AXC4T774RSVR.SN74AXC4T774RSVR.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):spi1@rfmc_frontend_v1_00.spi(sch_1):ins54@sn74axc4t774rsvr.\sn74axc4t774rsvr.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_spi1@rfmc_frontend_v1_00.spi(sch_1):page32_ins54@sn74axc4t774rsvr.\sn74axc4t774rsvr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(430,190)',
+ SECTION='';
+
+PART_NAME
+ IC9 'SN74AXC4T774RSVR_QFN40P180X260X55-16N_SN74AXC4T774RSVR':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):SPI2@RFMC_FRONTEND_V1_00.SPI(SCH_1):INS54@SN74AXC4T774RSVR.SN74AXC4T774RSVR.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):spi2@rfmc_frontend_v1_00.spi(sch_1):ins54@sn74axc4t774rsvr.\sn74axc4t774rsvr.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_spi2@rfmc_frontend_v1_00.spi(sch_1):page33_ins54@sn74axc4t774rsvr.\sn74axc4t774rsvr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(430,190)',
+ SECTION='';
+
+PART_NAME
+ J1 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS359118@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins359118@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page2_ins359118@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,40)',
+ SECTION='';
+
+PART_NAME
+ J10 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS362369@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins362369@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page2_ins362369@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(650,360)',
+ SECTION='';
+
+PART_NAME
+ J11 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS360855@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins360855@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page2_ins360855@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,440)',
+ SECTION='';
+
+PART_NAME
+ J12 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS361073@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins361073@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page2_ins361073@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,520)',
+ SECTION='';
+
+PART_NAME
+ J13 'HX PZ2_54-2X6P ZZ_PZ254R-12-12P_HX PZ2_54-2X6P ZZ':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS350886@HX PZ2_54-2X6P ZZ.HX PZ2_54-2X6P ZZ.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins350886@\hx pz2_54-2x6p zz\.\hx pz2_54-2x6p zz.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page3_ins350886@\hx pz2_54-2x6p zz\.\hx pz2_54-2x6p zz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(640,40)',
+ SECTION='';
+
+PART_NAME
+ J14 'HX PZ2_54-2X6P ZZ_PZ254R-12-12P_HX PZ2_54-2X6P ZZ':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS350922@HX PZ2_54-2X6P ZZ.HX PZ2_54-2X6P ZZ.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins350922@\hx pz2_54-2x6p zz\.\hx pz2_54-2x6p zz.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page3_ins350922@\hx pz2_54-2x6p zz\.\hx pz2_54-2x6p zz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(810,40)',
+ SECTION='';
+
+PART_NAME
+ J15 'LPAM-40-01.0-S-08-2-K-TR_LPAM40010S082KTR_LPAM-40-01.0-S-08-2-K-TR':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS285841@LPAM-40-01.0-S-08-2-K-TR.LPAM-40-01.0-S-08-2-K-TR.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins285841@\lpam-40-01.0-s-08-2-k-tr\.\lpam-40-01.0-s-08-2-k-tr.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page5_ins285841@\lpam-40-01.0-s-08-2-k-tr\.\lpam-40-01.0-s-08-2-k-tr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1190,180)',
+ SECTION='A';
+
+PART_NAME
+ J16 'LPAM-40-01.0-S-08-2-K-TR_LPAM40010S082KTR_LPAM-40-01.0-S-08-2-K-TR':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS286501@LPAM-40-01.0-S-08-2-K-TR.LPAM-40-01.0-S-08-2-K-TR.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins286501@\lpam-40-01.0-s-08-2-k-tr\.\lpam-40-01.0-s-08-2-k-tr.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page5_ins286501@\lpam-40-01.0-s-08-2-k-tr\.\lpam-40-01.0-s-08-2-k-tr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1880,180)',
+ SECTION='A';
+
+PART_NAME
+ J17 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG1@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS359896@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog1@rfmc_frontend_v1_00.analog(sch_1):ins359896@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog1@rfmc_frontend_v1_00.analog(sch_1):page7_ins359896@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(900,200)',
+ SECTION='';
+
+PART_NAME
+ J18 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG1@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS360140@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog1@rfmc_frontend_v1_00.analog(sch_1):ins360140@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog1@rfmc_frontend_v1_00.analog(sch_1):page7_ins360140@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,490)',
+ SECTION='';
+
+PART_NAME
+ J19 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG2@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS359896@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog2@rfmc_frontend_v1_00.analog(sch_1):ins359896@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog2@rfmc_frontend_v1_00.analog(sch_1):page8_ins359896@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(900,200)',
+ SECTION='';
+
+PART_NAME
+ J2 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS361311@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins361311@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page2_ins361311@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(650,40)',
+ SECTION='';
+
+PART_NAME
+ J20 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG2@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS360140@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog2@rfmc_frontend_v1_00.analog(sch_1):ins360140@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog2@rfmc_frontend_v1_00.analog(sch_1):page8_ins360140@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,490)',
+ SECTION='';
+
+PART_NAME
+ J21 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG3@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS359896@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog3@rfmc_frontend_v1_00.analog(sch_1):ins359896@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog3@rfmc_frontend_v1_00.analog(sch_1):page9_ins359896@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(900,200)',
+ SECTION='';
+
+PART_NAME
+ J22 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG3@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS360140@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog3@rfmc_frontend_v1_00.analog(sch_1):ins360140@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog3@rfmc_frontend_v1_00.analog(sch_1):page9_ins360140@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,490)',
+ SECTION='';
+
+PART_NAME
+ J23 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG4@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS359896@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog4@rfmc_frontend_v1_00.analog(sch_1):ins359896@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog4@rfmc_frontend_v1_00.analog(sch_1):page10_ins359896@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(900,200)',
+ SECTION='';
+
+PART_NAME
+ J24 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG4@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS360140@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog4@rfmc_frontend_v1_00.analog(sch_1):ins360140@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog4@rfmc_frontend_v1_00.analog(sch_1):page10_ins360140@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,490)',
+ SECTION='';
+
+PART_NAME
+ J25 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG5@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS359896@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog5@rfmc_frontend_v1_00.analog(sch_1):ins359896@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog5@rfmc_frontend_v1_00.analog(sch_1):page11_ins359896@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(900,200)',
+ SECTION='';
+
+PART_NAME
+ J26 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG5@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS360140@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog5@rfmc_frontend_v1_00.analog(sch_1):ins360140@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog5@rfmc_frontend_v1_00.analog(sch_1):page11_ins360140@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,490)',
+ SECTION='';
+
+PART_NAME
+ J27 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG6@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS359896@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog6@rfmc_frontend_v1_00.analog(sch_1):ins359896@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog6@rfmc_frontend_v1_00.analog(sch_1):page12_ins359896@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(900,200)',
+ SECTION='';
+
+PART_NAME
+ J28 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG6@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS360140@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog6@rfmc_frontend_v1_00.analog(sch_1):ins360140@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog6@rfmc_frontend_v1_00.analog(sch_1):page12_ins360140@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,490)',
+ SECTION='';
+
+PART_NAME
+ J29 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG7@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS359896@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog7@rfmc_frontend_v1_00.analog(sch_1):ins359896@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog7@rfmc_frontend_v1_00.analog(sch_1):page13_ins359896@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(900,200)',
+ SECTION='';
+
+PART_NAME
+ J3 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS360117@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins360117@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page2_ins360117@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,120)',
+ SECTION='';
+
+PART_NAME
+ J30 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG7@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS360140@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog7@rfmc_frontend_v1_00.analog(sch_1):ins360140@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog7@rfmc_frontend_v1_00.analog(sch_1):page13_ins360140@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,490)',
+ SECTION='';
+
+PART_NAME
+ J31 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG8@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS359896@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog8@rfmc_frontend_v1_00.analog(sch_1):ins359896@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog8@rfmc_frontend_v1_00.analog(sch_1):page14_ins359896@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(900,200)',
+ SECTION='';
+
+PART_NAME
+ J32 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG8@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS360140@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog8@rfmc_frontend_v1_00.analog(sch_1):ins360140@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog8@rfmc_frontend_v1_00.analog(sch_1):page14_ins360140@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,490)',
+ SECTION='';
+
+PART_NAME
+ J4 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS361559@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins361559@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page2_ins361559@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(650,120)',
+ SECTION='';
+
+PART_NAME
+ J5 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS360277@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins360277@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page2_ins360277@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,200)',
+ SECTION='';
+
+PART_NAME
+ J6 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS361821@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins361821@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page2_ins361821@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(650,200)',
+ SECTION='';
+
+PART_NAME
+ J7 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS360455@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins360455@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page2_ins360455@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,280)',
+ SECTION='';
+
+PART_NAME
+ J8 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS362091@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins362091@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page2_ins362091@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(650,280)',
+ SECTION='';
+
+PART_NAME
+ J9 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS360645@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins360645@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page2_ins360645@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,360)',
+ SECTION='';
+
+PART_NAME
+ M1 'MS230-10F_MS230-10F_RF SHIELD':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG1@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS309848@MS230-10F.MS230-10F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog1@rfmc_frontend_v1_00.analog(sch_1):ins309848@\ms230-10f\.\ms230-10f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog1@rfmc_frontend_v1_00.analog(sch_1):page7_ins309848@\ms230-10f\.\ms230-10f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,100)',
+ SECTION='';
+
+PART_NAME
+ M10 'MS230-10F_MS230-10F_RF SHIELD':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG5@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS361316@MS230-10F.MS230-10F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog5@rfmc_frontend_v1_00.analog(sch_1):ins361316@\ms230-10f\.\ms230-10f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog5@rfmc_frontend_v1_00.analog(sch_1):page11_ins361316@\ms230-10f\.\ms230-10f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,420)',
+ SECTION='';
+
+PART_NAME
+ M11 'MS230-10F_MS230-10F_RF SHIELD':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG6@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS309848@MS230-10F.MS230-10F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog6@rfmc_frontend_v1_00.analog(sch_1):ins309848@\ms230-10f\.\ms230-10f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog6@rfmc_frontend_v1_00.analog(sch_1):page12_ins309848@\ms230-10f\.\ms230-10f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,100)',
+ SECTION='';
+
+PART_NAME
+ M12 'MS230-10F_MS230-10F_RF SHIELD':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG6@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS361316@MS230-10F.MS230-10F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog6@rfmc_frontend_v1_00.analog(sch_1):ins361316@\ms230-10f\.\ms230-10f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog6@rfmc_frontend_v1_00.analog(sch_1):page12_ins361316@\ms230-10f\.\ms230-10f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,420)',
+ SECTION='';
+
+PART_NAME
+ M13 'MS230-10F_MS230-10F_RF SHIELD':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG7@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS309848@MS230-10F.MS230-10F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog7@rfmc_frontend_v1_00.analog(sch_1):ins309848@\ms230-10f\.\ms230-10f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog7@rfmc_frontend_v1_00.analog(sch_1):page13_ins309848@\ms230-10f\.\ms230-10f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,100)',
+ SECTION='';
+
+PART_NAME
+ M14 'MS230-10F_MS230-10F_RF SHIELD':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG7@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS361316@MS230-10F.MS230-10F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog7@rfmc_frontend_v1_00.analog(sch_1):ins361316@\ms230-10f\.\ms230-10f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog7@rfmc_frontend_v1_00.analog(sch_1):page13_ins361316@\ms230-10f\.\ms230-10f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,420)',
+ SECTION='';
+
+PART_NAME
+ M15 'MS230-10F_MS230-10F_RF SHIELD':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG8@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS309848@MS230-10F.MS230-10F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog8@rfmc_frontend_v1_00.analog(sch_1):ins309848@\ms230-10f\.\ms230-10f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog8@rfmc_frontend_v1_00.analog(sch_1):page14_ins309848@\ms230-10f\.\ms230-10f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,100)',
+ SECTION='';
+
+PART_NAME
+ M16 'MS230-10F_MS230-10F_RF SHIELD':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG8@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS361316@MS230-10F.MS230-10F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog8@rfmc_frontend_v1_00.analog(sch_1):ins361316@\ms230-10f\.\ms230-10f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog8@rfmc_frontend_v1_00.analog(sch_1):page14_ins361316@\ms230-10f\.\ms230-10f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,420)',
+ SECTION='';
+
+PART_NAME
+ M2 'MS230-10F_MS230-10F_RF SHIELD':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG1@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS361316@MS230-10F.MS230-10F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog1@rfmc_frontend_v1_00.analog(sch_1):ins361316@\ms230-10f\.\ms230-10f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog1@rfmc_frontend_v1_00.analog(sch_1):page7_ins361316@\ms230-10f\.\ms230-10f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,420)',
+ SECTION='';
+
+PART_NAME
+ M3 'MS230-10F_MS230-10F_RF SHIELD':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG2@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS309848@MS230-10F.MS230-10F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog2@rfmc_frontend_v1_00.analog(sch_1):ins309848@\ms230-10f\.\ms230-10f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog2@rfmc_frontend_v1_00.analog(sch_1):page8_ins309848@\ms230-10f\.\ms230-10f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,100)',
+ SECTION='';
+
+PART_NAME
+ M4 'MS230-10F_MS230-10F_RF SHIELD':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG2@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS361316@MS230-10F.MS230-10F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog2@rfmc_frontend_v1_00.analog(sch_1):ins361316@\ms230-10f\.\ms230-10f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog2@rfmc_frontend_v1_00.analog(sch_1):page8_ins361316@\ms230-10f\.\ms230-10f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,420)',
+ SECTION='';
+
+PART_NAME
+ M5 'MS230-10F_MS230-10F_RF SHIELD':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG3@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS309848@MS230-10F.MS230-10F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog3@rfmc_frontend_v1_00.analog(sch_1):ins309848@\ms230-10f\.\ms230-10f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog3@rfmc_frontend_v1_00.analog(sch_1):page9_ins309848@\ms230-10f\.\ms230-10f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,100)',
+ SECTION='';
+
+PART_NAME
+ M6 'MS230-10F_MS230-10F_RF SHIELD':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG3@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS361316@MS230-10F.MS230-10F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog3@rfmc_frontend_v1_00.analog(sch_1):ins361316@\ms230-10f\.\ms230-10f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog3@rfmc_frontend_v1_00.analog(sch_1):page9_ins361316@\ms230-10f\.\ms230-10f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,420)',
+ SECTION='';
+
+PART_NAME
+ M7 'MS230-10F_MS230-10F_RF SHIELD':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG4@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS309848@MS230-10F.MS230-10F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog4@rfmc_frontend_v1_00.analog(sch_1):ins309848@\ms230-10f\.\ms230-10f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog4@rfmc_frontend_v1_00.analog(sch_1):page10_ins309848@\ms230-10f\.\ms230-10f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,100)',
+ SECTION='';
+
+PART_NAME
+ M8 'MS230-10F_MS230-10F_RF SHIELD':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG4@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS361316@MS230-10F.MS230-10F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog4@rfmc_frontend_v1_00.analog(sch_1):ins361316@\ms230-10f\.\ms230-10f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog4@rfmc_frontend_v1_00.analog(sch_1):page10_ins361316@\ms230-10f\.\ms230-10f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,420)',
+ SECTION='';
+
+PART_NAME
+ M9 'MS230-10F_MS230-10F_RF SHIELD':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG5@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS309848@MS230-10F.MS230-10F.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog5@rfmc_frontend_v1_00.analog(sch_1):ins309848@\ms230-10f\.\ms230-10f.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog5@rfmc_frontend_v1_00.analog(sch_1):page11_ins309848@\ms230-10f\.\ms230-10f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,100)',
+ SECTION='';
+
+PART_NAME
+ MH1 'MH_250HN250_MH_250HN250_MH_250HN250':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS367437@MH_250HN250.MH_250HN250.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins367437@mh_250hn250.\mh_250hn250.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page5_ins367437@mh_250hn250.\mh_250hn250.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2310,110)',
+ SECTION='';
+
+PART_NAME
+ MH2 'MH_250H150_MH_250H150_MH_250H150':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS377413@MH_250H150.MH_250H150.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins377413@mh_250h150.\mh_250h150.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page5_ins377413@mh_250h150.\mh_250h150.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2430,110)',
+ SECTION='';
+
+PART_NAME
+ MH3 'MH_250HN250_MH_250HN250_MH_250HN250':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS367451@MH_250HN250.MH_250HN250.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins367451@mh_250hn250.\mh_250hn250.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page5_ins367451@mh_250hn250.\mh_250hn250.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2310,190)',
+ SECTION='';
+
+PART_NAME
+ MH4 'MH_250H150_MH_250H150_MH_250H150':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS377427@MH_250H150.MH_250H150.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins377427@mh_250h150.\mh_250h150.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page5_ins377427@mh_250h150.\mh_250h150.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2430,190)',
+ SECTION='';
+
+PART_NAME
+ MH5 'MH_250HN250_MH_250HN250_MH_250HN250':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS367465@MH_250HN250.MH_250HN250.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins367465@mh_250hn250.\mh_250hn250.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page5_ins367465@mh_250hn250.\mh_250hn250.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2310,270)',
+ SECTION='';
+
+PART_NAME
+ MH6 'MH_250H150_MH_250H150_MH_250H150':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS377441@MH_250H150.MH_250H150.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins377441@mh_250h150.\mh_250h150.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page5_ins377441@mh_250h150.\mh_250h150.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2430,270)',
+ SECTION='';
+
+PART_NAME
+ MH7 'MH_250H150_MH_250H150_MH_250H150':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS377455@MH_250H150.MH_250H150.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins377455@mh_250h150.\mh_250h150.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page5_ins377455@mh_250h150.\mh_250h150.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2430,350)',
+ SECTION='';
+
+PART_NAME
+ R1 'ERJ-2RKF1912X_0_ERJ2RKD1004X_19.1K 0402':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS629278@RFMC_FRONTEND_V1_00.ERJ-2RKF1912X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins629278@rfmc_frontend_v1_00.\erj-2rkf1912x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins629278@rfmc_frontend_v1_00.\erj-2rkf1912x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(610,200)',
+ SECTION='';
+
+PART_NAME
+ R10 'ERJ2RKF5900X_0_ERJ2RKD1004X_590R0':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG1@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23823@RFMC_FRONTEND_V1_00.ERJ2RKF5900X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog1@rfmc_frontend_v1_00.analog(sch_1):ins23823@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog1@rfmc_frontend_v1_00.analog(sch_1):page7_ins23823@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,460)',
+ SECTION='';
+
+PART_NAME
+ R11 'ERJ2RKF5900X_0_ERJ2RKD1004X_590R0':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG1@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23847@RFMC_FRONTEND_V1_00.ERJ2RKF5900X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog1@rfmc_frontend_v1_00.analog(sch_1):ins23847@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog1@rfmc_frontend_v1_00.analog(sch_1):page7_ins23847@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,460)',
+ SECTION='';
+
+PART_NAME
+ R12 'ERJ-2RKF17R4X_0_ERJ2RKD1004X_17R4':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG1@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23917@RFMC_FRONTEND_V1_00.ERJ-2RKF17R4X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog1@rfmc_frontend_v1_00.analog(sch_1):ins23917@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog1@rfmc_frontend_v1_00.analog(sch_1):page7_ins23917@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,520)',
+ SECTION='';
+
+PART_NAME
+ R13 'ERJ-2RKF17R4X_0_ERJ2RKD1004X_17R4':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG2@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23329@RFMC_FRONTEND_V1_00.ERJ-2RKF17R4X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog2@rfmc_frontend_v1_00.analog(sch_1):ins23329@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog2@rfmc_frontend_v1_00.analog(sch_1):page8_ins23329@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,120)',
+ SECTION='';
+
+PART_NAME
+ R14 'ERJ2RKF5900X_0_ERJ2RKD1004X_590R0':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG2@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23417@RFMC_FRONTEND_V1_00.ERJ2RKF5900X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog2@rfmc_frontend_v1_00.analog(sch_1):ins23417@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog2@rfmc_frontend_v1_00.analog(sch_1):page8_ins23417@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,170)',
+ SECTION='';
+
+PART_NAME
+ R15 'ERJ2RKF5900X_0_ERJ2RKD1004X_590R0':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG2@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23441@RFMC_FRONTEND_V1_00.ERJ2RKF5900X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog2@rfmc_frontend_v1_00.analog(sch_1):ins23441@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog2@rfmc_frontend_v1_00.analog(sch_1):page8_ins23441@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,170)',
+ SECTION='';
+
+PART_NAME
+ R16 'ERJ-2RKF17R4X_0_ERJ2RKD1004X_17R4':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG2@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23547@RFMC_FRONTEND_V1_00.ERJ-2RKF17R4X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog2@rfmc_frontend_v1_00.analog(sch_1):ins23547@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog2@rfmc_frontend_v1_00.analog(sch_1):page8_ins23547@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,230)',
+ SECTION='';
+
+PART_NAME
+ R17 'ERJ-2RKF17R4X_0_ERJ2RKD1004X_17R4':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG2@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23743@RFMC_FRONTEND_V1_00.ERJ-2RKF17R4X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog2@rfmc_frontend_v1_00.analog(sch_1):ins23743@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog2@rfmc_frontend_v1_00.analog(sch_1):page8_ins23743@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,410)',
+ SECTION='';
+
+PART_NAME
+ R18 'ERJ2RKF5900X_0_ERJ2RKD1004X_590R0':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG2@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23823@RFMC_FRONTEND_V1_00.ERJ2RKF5900X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog2@rfmc_frontend_v1_00.analog(sch_1):ins23823@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog2@rfmc_frontend_v1_00.analog(sch_1):page8_ins23823@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,460)',
+ SECTION='';
+
+PART_NAME
+ R19 'ERJ2RKF5900X_0_ERJ2RKD1004X_590R0':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG2@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23847@RFMC_FRONTEND_V1_00.ERJ2RKF5900X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog2@rfmc_frontend_v1_00.analog(sch_1):ins23847@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog2@rfmc_frontend_v1_00.analog(sch_1):page8_ins23847@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,460)',
+ SECTION='';
+
+PART_NAME
+ R2 'ERJ-2RHD1072X_0_ERJ2RKD1004X_10.7K 0402':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS626159@RFMC_FRONTEND_V1_00.ERJ-2RHD1072X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins626159@rfmc_frontend_v1_00.\erj-2rhd1072x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins626159@rfmc_frontend_v1_00.\erj-2rhd1072x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,200)',
+ SECTION='';
+
+PART_NAME
+ R20 'ERJ-2RKF17R4X_0_ERJ2RKD1004X_17R4':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG2@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23917@RFMC_FRONTEND_V1_00.ERJ-2RKF17R4X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog2@rfmc_frontend_v1_00.analog(sch_1):ins23917@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog2@rfmc_frontend_v1_00.analog(sch_1):page8_ins23917@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,520)',
+ SECTION='';
+
+PART_NAME
+ R21 'ERJ-2RKF17R4X_0_ERJ2RKD1004X_17R4':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG3@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23329@RFMC_FRONTEND_V1_00.ERJ-2RKF17R4X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog3@rfmc_frontend_v1_00.analog(sch_1):ins23329@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog3@rfmc_frontend_v1_00.analog(sch_1):page9_ins23329@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,120)',
+ SECTION='';
+
+PART_NAME
+ R22 'ERJ2RKF5900X_0_ERJ2RKD1004X_590R0':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG3@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23417@RFMC_FRONTEND_V1_00.ERJ2RKF5900X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog3@rfmc_frontend_v1_00.analog(sch_1):ins23417@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog3@rfmc_frontend_v1_00.analog(sch_1):page9_ins23417@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,170)',
+ SECTION='';
+
+PART_NAME
+ R23 'ERJ2RKF5900X_0_ERJ2RKD1004X_590R0':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG3@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23441@RFMC_FRONTEND_V1_00.ERJ2RKF5900X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog3@rfmc_frontend_v1_00.analog(sch_1):ins23441@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog3@rfmc_frontend_v1_00.analog(sch_1):page9_ins23441@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,170)',
+ SECTION='';
+
+PART_NAME
+ R24 'ERJ-2RKF17R4X_0_ERJ2RKD1004X_17R4':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG3@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23547@RFMC_FRONTEND_V1_00.ERJ-2RKF17R4X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog3@rfmc_frontend_v1_00.analog(sch_1):ins23547@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog3@rfmc_frontend_v1_00.analog(sch_1):page9_ins23547@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,230)',
+ SECTION='';
+
+PART_NAME
+ R25 'ERJ-2RKF17R4X_0_ERJ2RKD1004X_17R4':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG3@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23743@RFMC_FRONTEND_V1_00.ERJ-2RKF17R4X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog3@rfmc_frontend_v1_00.analog(sch_1):ins23743@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog3@rfmc_frontend_v1_00.analog(sch_1):page9_ins23743@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,410)',
+ SECTION='';
+
+PART_NAME
+ R26 'ERJ2RKF5900X_0_ERJ2RKD1004X_590R0':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG3@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23823@RFMC_FRONTEND_V1_00.ERJ2RKF5900X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog3@rfmc_frontend_v1_00.analog(sch_1):ins23823@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog3@rfmc_frontend_v1_00.analog(sch_1):page9_ins23823@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,460)',
+ SECTION='';
+
+PART_NAME
+ R27 'ERJ2RKF5900X_0_ERJ2RKD1004X_590R0':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG3@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23847@RFMC_FRONTEND_V1_00.ERJ2RKF5900X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog3@rfmc_frontend_v1_00.analog(sch_1):ins23847@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog3@rfmc_frontend_v1_00.analog(sch_1):page9_ins23847@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,460)',
+ SECTION='';
+
+PART_NAME
+ R28 'ERJ-2RKF17R4X_0_ERJ2RKD1004X_17R4':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG3@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23917@RFMC_FRONTEND_V1_00.ERJ-2RKF17R4X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog3@rfmc_frontend_v1_00.analog(sch_1):ins23917@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog3@rfmc_frontend_v1_00.analog(sch_1):page9_ins23917@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,520)',
+ SECTION='';
+
+PART_NAME
+ R29 'ERJ-2RKF17R4X_0_ERJ2RKD1004X_17R4':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG4@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23329@RFMC_FRONTEND_V1_00.ERJ-2RKF17R4X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog4@rfmc_frontend_v1_00.analog(sch_1):ins23329@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog4@rfmc_frontend_v1_00.analog(sch_1):page10_ins23329@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,120)',
+ SECTION='';
+
+PART_NAME
+ R3 'ERJ-2RHD1072X_0_ERJ2RKD1004X_10.7K 0402':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS633610@RFMC_FRONTEND_V1_00.ERJ-2RHD1072X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins633610@rfmc_frontend_v1_00.\erj-2rhd1072x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins633610@rfmc_frontend_v1_00.\erj-2rhd1072x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(610,640)',
+ SECTION='';
+
+PART_NAME
+ R30 'ERJ2RKF5900X_0_ERJ2RKD1004X_590R0':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG4@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23417@RFMC_FRONTEND_V1_00.ERJ2RKF5900X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog4@rfmc_frontend_v1_00.analog(sch_1):ins23417@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog4@rfmc_frontend_v1_00.analog(sch_1):page10_ins23417@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,170)',
+ SECTION='';
+
+PART_NAME
+ R31 'ERJ2RKF5900X_0_ERJ2RKD1004X_590R0':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG4@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23441@RFMC_FRONTEND_V1_00.ERJ2RKF5900X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog4@rfmc_frontend_v1_00.analog(sch_1):ins23441@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog4@rfmc_frontend_v1_00.analog(sch_1):page10_ins23441@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,170)',
+ SECTION='';
+
+PART_NAME
+ R32 'ERJ-2RKF17R4X_0_ERJ2RKD1004X_17R4':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG4@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23547@RFMC_FRONTEND_V1_00.ERJ-2RKF17R4X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog4@rfmc_frontend_v1_00.analog(sch_1):ins23547@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog4@rfmc_frontend_v1_00.analog(sch_1):page10_ins23547@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,230)',
+ SECTION='';
+
+PART_NAME
+ R33 'ERJ-2RKF17R4X_0_ERJ2RKD1004X_17R4':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG4@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23743@RFMC_FRONTEND_V1_00.ERJ-2RKF17R4X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog4@rfmc_frontend_v1_00.analog(sch_1):ins23743@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog4@rfmc_frontend_v1_00.analog(sch_1):page10_ins23743@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,410)',
+ SECTION='';
+
+PART_NAME
+ R34 'ERJ2RKF5900X_0_ERJ2RKD1004X_590R0':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG4@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23823@RFMC_FRONTEND_V1_00.ERJ2RKF5900X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog4@rfmc_frontend_v1_00.analog(sch_1):ins23823@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog4@rfmc_frontend_v1_00.analog(sch_1):page10_ins23823@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,460)',
+ SECTION='';
+
+PART_NAME
+ R35 'ERJ2RKF5900X_0_ERJ2RKD1004X_590R0':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG4@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23847@RFMC_FRONTEND_V1_00.ERJ2RKF5900X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog4@rfmc_frontend_v1_00.analog(sch_1):ins23847@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog4@rfmc_frontend_v1_00.analog(sch_1):page10_ins23847@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,460)',
+ SECTION='';
+
+PART_NAME
+ R36 'ERJ-2RKF17R4X_0_ERJ2RKD1004X_17R4':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG4@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23917@RFMC_FRONTEND_V1_00.ERJ-2RKF17R4X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog4@rfmc_frontend_v1_00.analog(sch_1):ins23917@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog4@rfmc_frontend_v1_00.analog(sch_1):page10_ins23917@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,520)',
+ SECTION='';
+
+PART_NAME
+ R37 'ERJ-2RKF17R4X_0_ERJ2RKD1004X_17R4':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG5@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23329@RFMC_FRONTEND_V1_00.ERJ-2RKF17R4X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog5@rfmc_frontend_v1_00.analog(sch_1):ins23329@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog5@rfmc_frontend_v1_00.analog(sch_1):page11_ins23329@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,120)',
+ SECTION='';
+
+PART_NAME
+ R38 'ERJ2RKF5900X_0_ERJ2RKD1004X_590R0':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG5@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23417@RFMC_FRONTEND_V1_00.ERJ2RKF5900X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog5@rfmc_frontend_v1_00.analog(sch_1):ins23417@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog5@rfmc_frontend_v1_00.analog(sch_1):page11_ins23417@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,170)',
+ SECTION='';
+
+PART_NAME
+ R39 'ERJ2RKF5900X_0_ERJ2RKD1004X_590R0':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG5@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23441@RFMC_FRONTEND_V1_00.ERJ2RKF5900X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog5@rfmc_frontend_v1_00.analog(sch_1):ins23441@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog5@rfmc_frontend_v1_00.analog(sch_1):page11_ins23441@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,170)',
+ SECTION='';
+
+PART_NAME
+ R4 'ERJ-2RKF1912X_0_ERJ2RKD1004X_19.1K 0402':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS633512@RFMC_FRONTEND_V1_00.ERJ-2RKF1912X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins633512@rfmc_frontend_v1_00.\erj-2rkf1912x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page6_ins633512@rfmc_frontend_v1_00.\erj-2rkf1912x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,640)',
+ SECTION='';
+
+PART_NAME
+ R40 'ERJ-2RKF17R4X_0_ERJ2RKD1004X_17R4':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG5@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23547@RFMC_FRONTEND_V1_00.ERJ-2RKF17R4X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog5@rfmc_frontend_v1_00.analog(sch_1):ins23547@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog5@rfmc_frontend_v1_00.analog(sch_1):page11_ins23547@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,230)',
+ SECTION='';
+
+PART_NAME
+ R41 'ERJ-2RKF17R4X_0_ERJ2RKD1004X_17R4':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG5@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23743@RFMC_FRONTEND_V1_00.ERJ-2RKF17R4X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog5@rfmc_frontend_v1_00.analog(sch_1):ins23743@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog5@rfmc_frontend_v1_00.analog(sch_1):page11_ins23743@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,410)',
+ SECTION='';
+
+PART_NAME
+ R42 'ERJ2RKF5900X_0_ERJ2RKD1004X_590R0':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG5@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23823@RFMC_FRONTEND_V1_00.ERJ2RKF5900X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog5@rfmc_frontend_v1_00.analog(sch_1):ins23823@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog5@rfmc_frontend_v1_00.analog(sch_1):page11_ins23823@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,460)',
+ SECTION='';
+
+PART_NAME
+ R43 'ERJ2RKF5900X_0_ERJ2RKD1004X_590R0':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG5@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23847@RFMC_FRONTEND_V1_00.ERJ2RKF5900X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog5@rfmc_frontend_v1_00.analog(sch_1):ins23847@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog5@rfmc_frontend_v1_00.analog(sch_1):page11_ins23847@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,460)',
+ SECTION='';
+
+PART_NAME
+ R44 'ERJ-2RKF17R4X_0_ERJ2RKD1004X_17R4':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG5@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23917@RFMC_FRONTEND_V1_00.ERJ-2RKF17R4X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog5@rfmc_frontend_v1_00.analog(sch_1):ins23917@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog5@rfmc_frontend_v1_00.analog(sch_1):page11_ins23917@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,520)',
+ SECTION='';
+
+PART_NAME
+ R45 'ERJ-2RKF17R4X_0_ERJ2RKD1004X_17R4':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG6@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23329@RFMC_FRONTEND_V1_00.ERJ-2RKF17R4X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog6@rfmc_frontend_v1_00.analog(sch_1):ins23329@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog6@rfmc_frontend_v1_00.analog(sch_1):page12_ins23329@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,120)',
+ SECTION='';
+
+PART_NAME
+ R46 'ERJ2RKF5900X_0_ERJ2RKD1004X_590R0':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG6@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23417@RFMC_FRONTEND_V1_00.ERJ2RKF5900X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog6@rfmc_frontend_v1_00.analog(sch_1):ins23417@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog6@rfmc_frontend_v1_00.analog(sch_1):page12_ins23417@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,170)',
+ SECTION='';
+
+PART_NAME
+ R47 'ERJ2RKF5900X_0_ERJ2RKD1004X_590R0':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG6@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23441@RFMC_FRONTEND_V1_00.ERJ2RKF5900X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog6@rfmc_frontend_v1_00.analog(sch_1):ins23441@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog6@rfmc_frontend_v1_00.analog(sch_1):page12_ins23441@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,170)',
+ SECTION='';
+
+PART_NAME
+ R48 'ERJ-2RKF17R4X_0_ERJ2RKD1004X_17R4':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG6@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23547@RFMC_FRONTEND_V1_00.ERJ-2RKF17R4X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog6@rfmc_frontend_v1_00.analog(sch_1):ins23547@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog6@rfmc_frontend_v1_00.analog(sch_1):page12_ins23547@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,230)',
+ SECTION='';
+
+PART_NAME
+ R49 'ERJ-2RKF17R4X_0_ERJ2RKD1004X_17R4':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG6@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23743@RFMC_FRONTEND_V1_00.ERJ-2RKF17R4X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog6@rfmc_frontend_v1_00.analog(sch_1):ins23743@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog6@rfmc_frontend_v1_00.analog(sch_1):page12_ins23743@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,410)',
+ SECTION='';
+
+PART_NAME
+ R5 'ERJ-2RKF17R4X_0_ERJ2RKD1004X_17R4':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG1@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23329@RFMC_FRONTEND_V1_00.ERJ-2RKF17R4X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog1@rfmc_frontend_v1_00.analog(sch_1):ins23329@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog1@rfmc_frontend_v1_00.analog(sch_1):page7_ins23329@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,120)',
+ SECTION='';
+
+PART_NAME
+ R50 'ERJ2RKF5900X_0_ERJ2RKD1004X_590R0':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG6@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23823@RFMC_FRONTEND_V1_00.ERJ2RKF5900X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog6@rfmc_frontend_v1_00.analog(sch_1):ins23823@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog6@rfmc_frontend_v1_00.analog(sch_1):page12_ins23823@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,460)',
+ SECTION='';
+
+PART_NAME
+ R51 'ERJ2RKF5900X_0_ERJ2RKD1004X_590R0':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG6@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23847@RFMC_FRONTEND_V1_00.ERJ2RKF5900X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog6@rfmc_frontend_v1_00.analog(sch_1):ins23847@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog6@rfmc_frontend_v1_00.analog(sch_1):page12_ins23847@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,460)',
+ SECTION='';
+
+PART_NAME
+ R52 'ERJ-2RKF17R4X_0_ERJ2RKD1004X_17R4':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG6@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23917@RFMC_FRONTEND_V1_00.ERJ-2RKF17R4X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog6@rfmc_frontend_v1_00.analog(sch_1):ins23917@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog6@rfmc_frontend_v1_00.analog(sch_1):page12_ins23917@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,520)',
+ SECTION='';
+
+PART_NAME
+ R53 'ERJ-2RKF17R4X_0_ERJ2RKD1004X_17R4':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG7@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23329@RFMC_FRONTEND_V1_00.ERJ-2RKF17R4X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog7@rfmc_frontend_v1_00.analog(sch_1):ins23329@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog7@rfmc_frontend_v1_00.analog(sch_1):page13_ins23329@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,120)',
+ SECTION='';
+
+PART_NAME
+ R54 'ERJ2RKF5900X_0_ERJ2RKD1004X_590R0':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG7@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23417@RFMC_FRONTEND_V1_00.ERJ2RKF5900X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog7@rfmc_frontend_v1_00.analog(sch_1):ins23417@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog7@rfmc_frontend_v1_00.analog(sch_1):page13_ins23417@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,170)',
+ SECTION='';
+
+PART_NAME
+ R55 'ERJ2RKF5900X_0_ERJ2RKD1004X_590R0':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG7@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23441@RFMC_FRONTEND_V1_00.ERJ2RKF5900X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog7@rfmc_frontend_v1_00.analog(sch_1):ins23441@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog7@rfmc_frontend_v1_00.analog(sch_1):page13_ins23441@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,170)',
+ SECTION='';
+
+PART_NAME
+ R56 'ERJ-2RKF17R4X_0_ERJ2RKD1004X_17R4':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG7@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23547@RFMC_FRONTEND_V1_00.ERJ-2RKF17R4X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog7@rfmc_frontend_v1_00.analog(sch_1):ins23547@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog7@rfmc_frontend_v1_00.analog(sch_1):page13_ins23547@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,230)',
+ SECTION='';
+
+PART_NAME
+ R57 'ERJ-2RKF17R4X_0_ERJ2RKD1004X_17R4':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG7@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23743@RFMC_FRONTEND_V1_00.ERJ-2RKF17R4X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog7@rfmc_frontend_v1_00.analog(sch_1):ins23743@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog7@rfmc_frontend_v1_00.analog(sch_1):page13_ins23743@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,410)',
+ SECTION='';
+
+PART_NAME
+ R58 'ERJ2RKF5900X_0_ERJ2RKD1004X_590R0':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG7@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23823@RFMC_FRONTEND_V1_00.ERJ2RKF5900X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog7@rfmc_frontend_v1_00.analog(sch_1):ins23823@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog7@rfmc_frontend_v1_00.analog(sch_1):page13_ins23823@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,460)',
+ SECTION='';
+
+PART_NAME
+ R59 'ERJ2RKF5900X_0_ERJ2RKD1004X_590R0':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG7@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23847@RFMC_FRONTEND_V1_00.ERJ2RKF5900X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog7@rfmc_frontend_v1_00.analog(sch_1):ins23847@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog7@rfmc_frontend_v1_00.analog(sch_1):page13_ins23847@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,460)',
+ SECTION='';
+
+PART_NAME
+ R6 'ERJ2RKF5900X_0_ERJ2RKD1004X_590R0':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG1@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23417@RFMC_FRONTEND_V1_00.ERJ2RKF5900X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog1@rfmc_frontend_v1_00.analog(sch_1):ins23417@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog1@rfmc_frontend_v1_00.analog(sch_1):page7_ins23417@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,170)',
+ SECTION='';
+
+PART_NAME
+ R60 'ERJ-2RKF17R4X_0_ERJ2RKD1004X_17R4':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG7@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23917@RFMC_FRONTEND_V1_00.ERJ-2RKF17R4X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog7@rfmc_frontend_v1_00.analog(sch_1):ins23917@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog7@rfmc_frontend_v1_00.analog(sch_1):page13_ins23917@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,520)',
+ SECTION='';
+
+PART_NAME
+ R61 'ERJ-2RKF17R4X_0_ERJ2RKD1004X_17R4':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG8@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23329@RFMC_FRONTEND_V1_00.ERJ-2RKF17R4X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog8@rfmc_frontend_v1_00.analog(sch_1):ins23329@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog8@rfmc_frontend_v1_00.analog(sch_1):page14_ins23329@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,120)',
+ SECTION='';
+
+PART_NAME
+ R62 'ERJ2RKF5900X_0_ERJ2RKD1004X_590R0':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG8@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23417@RFMC_FRONTEND_V1_00.ERJ2RKF5900X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog8@rfmc_frontend_v1_00.analog(sch_1):ins23417@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog8@rfmc_frontend_v1_00.analog(sch_1):page14_ins23417@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,170)',
+ SECTION='';
+
+PART_NAME
+ R63 'ERJ2RKF5900X_0_ERJ2RKD1004X_590R0':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG8@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23441@RFMC_FRONTEND_V1_00.ERJ2RKF5900X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog8@rfmc_frontend_v1_00.analog(sch_1):ins23441@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog8@rfmc_frontend_v1_00.analog(sch_1):page14_ins23441@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,170)',
+ SECTION='';
+
+PART_NAME
+ R64 'ERJ-2RKF17R4X_0_ERJ2RKD1004X_17R4':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG8@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23547@RFMC_FRONTEND_V1_00.ERJ-2RKF17R4X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog8@rfmc_frontend_v1_00.analog(sch_1):ins23547@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog8@rfmc_frontend_v1_00.analog(sch_1):page14_ins23547@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,230)',
+ SECTION='';
+
+PART_NAME
+ R65 'ERJ-2RKF17R4X_0_ERJ2RKD1004X_17R4':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG8@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23743@RFMC_FRONTEND_V1_00.ERJ-2RKF17R4X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog8@rfmc_frontend_v1_00.analog(sch_1):ins23743@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog8@rfmc_frontend_v1_00.analog(sch_1):page14_ins23743@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,410)',
+ SECTION='';
+
+PART_NAME
+ R66 'ERJ2RKF5900X_0_ERJ2RKD1004X_590R0':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG8@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23823@RFMC_FRONTEND_V1_00.ERJ2RKF5900X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog8@rfmc_frontend_v1_00.analog(sch_1):ins23823@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog8@rfmc_frontend_v1_00.analog(sch_1):page14_ins23823@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,460)',
+ SECTION='';
+
+PART_NAME
+ R67 'ERJ2RKF5900X_0_ERJ2RKD1004X_590R0':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG8@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23847@RFMC_FRONTEND_V1_00.ERJ2RKF5900X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog8@rfmc_frontend_v1_00.analog(sch_1):ins23847@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog8@rfmc_frontend_v1_00.analog(sch_1):page14_ins23847@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,460)',
+ SECTION='';
+
+PART_NAME
+ R68 'ERJ-2RKF17R4X_0_ERJ2RKD1004X_17R4':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG8@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23917@RFMC_FRONTEND_V1_00.ERJ-2RKF17R4X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog8@rfmc_frontend_v1_00.analog(sch_1):ins23917@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog8@rfmc_frontend_v1_00.analog(sch_1):page14_ins23917@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,520)',
+ SECTION='';
+
+PART_NAME
+ R7 'ERJ2RKF5900X_0_ERJ2RKD1004X_590R0':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG1@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23441@RFMC_FRONTEND_V1_00.ERJ2RKF5900X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog1@rfmc_frontend_v1_00.analog(sch_1):ins23441@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog1@rfmc_frontend_v1_00.analog(sch_1):page7_ins23441@rfmc_frontend_v1_00.\erj2rkf5900x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,170)',
+ SECTION='';
+
+PART_NAME
+ R8 'ERJ-2RKF17R4X_0_ERJ2RKD1004X_17R4':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG1@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23547@RFMC_FRONTEND_V1_00.ERJ-2RKF17R4X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog1@rfmc_frontend_v1_00.analog(sch_1):ins23547@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog1@rfmc_frontend_v1_00.analog(sch_1):page7_ins23547@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,230)',
+ SECTION='';
+
+PART_NAME
+ R9 'ERJ-2RKF17R4X_0_ERJ2RKD1004X_17R4':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG1@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23743@RFMC_FRONTEND_V1_00.ERJ-2RKF17R4X_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog1@rfmc_frontend_v1_00.analog(sch_1):ins23743@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog1@rfmc_frontend_v1_00.analog(sch_1):page7_ins23743@rfmc_frontend_v1_00.\erj-2rkf17r4x_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,410)',
+ SECTION='';
+
+PART_NAME
+ T1 'TCM2-33X+_0_TCM233X_BALUN':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG1@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23501@RFMC_FRONTEND_V1_00.TCM2-33X+_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog1@rfmc_frontend_v1_00.analog(sch_1):ins23501@rfmc_frontend_v1_00.\tcm2-33x+_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog1@rfmc_frontend_v1_00.analog(sch_1):page7_ins23501@rfmc_frontend_v1_00.\tcm2-33x+_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,210)',
+ SECTION='';
+
+PART_NAME
+ T10 'TCM2-33X+_0_TCM233X_BALUN':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG5@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23871@RFMC_FRONTEND_V1_00.TCM2-33X+_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog5@rfmc_frontend_v1_00.analog(sch_1):ins23871@rfmc_frontend_v1_00.\tcm2-33x+_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog5@rfmc_frontend_v1_00.analog(sch_1):page11_ins23871@rfmc_frontend_v1_00.\tcm2-33x+_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,500)',
+ SECTION='';
+
+PART_NAME
+ T11 'TCM2-33X+_0_TCM233X_BALUN':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG6@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23501@RFMC_FRONTEND_V1_00.TCM2-33X+_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog6@rfmc_frontend_v1_00.analog(sch_1):ins23501@rfmc_frontend_v1_00.\tcm2-33x+_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog6@rfmc_frontend_v1_00.analog(sch_1):page12_ins23501@rfmc_frontend_v1_00.\tcm2-33x+_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,210)',
+ SECTION='';
+
+PART_NAME
+ T12 'TCM2-33X+_0_TCM233X_BALUN':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG6@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23871@RFMC_FRONTEND_V1_00.TCM2-33X+_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog6@rfmc_frontend_v1_00.analog(sch_1):ins23871@rfmc_frontend_v1_00.\tcm2-33x+_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog6@rfmc_frontend_v1_00.analog(sch_1):page12_ins23871@rfmc_frontend_v1_00.\tcm2-33x+_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,500)',
+ SECTION='';
+
+PART_NAME
+ T13 'TCM2-33X+_0_TCM233X_BALUN':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG7@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23501@RFMC_FRONTEND_V1_00.TCM2-33X+_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog7@rfmc_frontend_v1_00.analog(sch_1):ins23501@rfmc_frontend_v1_00.\tcm2-33x+_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog7@rfmc_frontend_v1_00.analog(sch_1):page13_ins23501@rfmc_frontend_v1_00.\tcm2-33x+_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,210)',
+ SECTION='';
+
+PART_NAME
+ T14 'TCM2-33X+_0_TCM233X_BALUN':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG7@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23871@RFMC_FRONTEND_V1_00.TCM2-33X+_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog7@rfmc_frontend_v1_00.analog(sch_1):ins23871@rfmc_frontend_v1_00.\tcm2-33x+_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog7@rfmc_frontend_v1_00.analog(sch_1):page13_ins23871@rfmc_frontend_v1_00.\tcm2-33x+_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,500)',
+ SECTION='';
+
+PART_NAME
+ T15 'TCM2-33X+_0_TCM233X_BALUN':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG8@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23501@RFMC_FRONTEND_V1_00.TCM2-33X+_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog8@rfmc_frontend_v1_00.analog(sch_1):ins23501@rfmc_frontend_v1_00.\tcm2-33x+_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog8@rfmc_frontend_v1_00.analog(sch_1):page14_ins23501@rfmc_frontend_v1_00.\tcm2-33x+_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,210)',
+ SECTION='';
+
+PART_NAME
+ T16 'TCM2-33X+_0_TCM233X_BALUN':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG8@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23871@RFMC_FRONTEND_V1_00.TCM2-33X+_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog8@rfmc_frontend_v1_00.analog(sch_1):ins23871@rfmc_frontend_v1_00.\tcm2-33x+_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog8@rfmc_frontend_v1_00.analog(sch_1):page14_ins23871@rfmc_frontend_v1_00.\tcm2-33x+_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,500)',
+ SECTION='';
+
+PART_NAME
+ T2 'TCM2-33X+_0_TCM233X_BALUN':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG1@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23871@RFMC_FRONTEND_V1_00.TCM2-33X+_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog1@rfmc_frontend_v1_00.analog(sch_1):ins23871@rfmc_frontend_v1_00.\tcm2-33x+_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog1@rfmc_frontend_v1_00.analog(sch_1):page7_ins23871@rfmc_frontend_v1_00.\tcm2-33x+_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,500)',
+ SECTION='';
+
+PART_NAME
+ T3 'TCM2-33X+_0_TCM233X_BALUN':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG2@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23501@RFMC_FRONTEND_V1_00.TCM2-33X+_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog2@rfmc_frontend_v1_00.analog(sch_1):ins23501@rfmc_frontend_v1_00.\tcm2-33x+_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog2@rfmc_frontend_v1_00.analog(sch_1):page8_ins23501@rfmc_frontend_v1_00.\tcm2-33x+_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,210)',
+ SECTION='';
+
+PART_NAME
+ T4 'TCM2-33X+_0_TCM233X_BALUN':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG2@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23871@RFMC_FRONTEND_V1_00.TCM2-33X+_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog2@rfmc_frontend_v1_00.analog(sch_1):ins23871@rfmc_frontend_v1_00.\tcm2-33x+_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog2@rfmc_frontend_v1_00.analog(sch_1):page8_ins23871@rfmc_frontend_v1_00.\tcm2-33x+_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,500)',
+ SECTION='';
+
+PART_NAME
+ T5 'TCM2-33X+_0_TCM233X_BALUN':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG3@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23501@RFMC_FRONTEND_V1_00.TCM2-33X+_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog3@rfmc_frontend_v1_00.analog(sch_1):ins23501@rfmc_frontend_v1_00.\tcm2-33x+_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog3@rfmc_frontend_v1_00.analog(sch_1):page9_ins23501@rfmc_frontend_v1_00.\tcm2-33x+_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,210)',
+ SECTION='';
+
+PART_NAME
+ T6 'TCM2-33X+_0_TCM233X_BALUN':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG3@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23871@RFMC_FRONTEND_V1_00.TCM2-33X+_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog3@rfmc_frontend_v1_00.analog(sch_1):ins23871@rfmc_frontend_v1_00.\tcm2-33x+_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog3@rfmc_frontend_v1_00.analog(sch_1):page9_ins23871@rfmc_frontend_v1_00.\tcm2-33x+_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,500)',
+ SECTION='';
+
+PART_NAME
+ T7 'TCM2-33X+_0_TCM233X_BALUN':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG4@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23501@RFMC_FRONTEND_V1_00.TCM2-33X+_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog4@rfmc_frontend_v1_00.analog(sch_1):ins23501@rfmc_frontend_v1_00.\tcm2-33x+_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog4@rfmc_frontend_v1_00.analog(sch_1):page10_ins23501@rfmc_frontend_v1_00.\tcm2-33x+_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,210)',
+ SECTION='';
+
+PART_NAME
+ T8 'TCM2-33X+_0_TCM233X_BALUN':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG4@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23871@RFMC_FRONTEND_V1_00.TCM2-33X+_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog4@rfmc_frontend_v1_00.analog(sch_1):ins23871@rfmc_frontend_v1_00.\tcm2-33x+_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog4@rfmc_frontend_v1_00.analog(sch_1):page10_ins23871@rfmc_frontend_v1_00.\tcm2-33x+_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,500)',
+ SECTION='';
+
+PART_NAME
+ T9 'TCM2-33X+_0_TCM233X_BALUN':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):ANALOG5@RFMC_FRONTEND_V1_00.ANALOG(SCH_1):INS23501@RFMC_FRONTEND_V1_00.TCM2-33X+_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):analog5@rfmc_frontend_v1_00.analog(sch_1):ins23501@rfmc_frontend_v1_00.\tcm2-33x+_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page1_analog5@rfmc_frontend_v1_00.analog(sch_1):page11_ins23501@rfmc_frontend_v1_00.\tcm2-33x+_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(350,210)',
+ SECTION='';
+
+PART_NAME
+ U1 '2541WV-2X15P_N2530-6002-RB_3M_2541WV-2X15P':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS348259@2541WV-2X15P.2541WV-2X15P.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins348259@\2541wv-2x15p\.\2541wv-2x15p.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page3_ins348259@\2541wv-2x15p\.\2541wv-2x15p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(180,30)',
+ SECTION='';
+
+PART_NAME
+ U10 'SN74LXC1T45DRYR_0_SN74LXC1T45DRYR_SN74LXC1T45DRYR':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL15@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214112@RFMC_FRONTEND_V1_00.SN74LXC1T45DRYR_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital15@rfmc_frontend_v1_00.digital(sch_1):ins214112@rfmc_frontend_v1_00.\sn74lxc1t45dryr_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital15@rfmc_frontend_v1_00.digital(sch_1):page18_ins214112@rfmc_frontend_v1_00.\sn74lxc1t45dryr_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,220)',
+ SECTION='';
+
+PART_NAME
+ U11 'SN74LXC1T45DRYR_0_SN74LXC1T45DRYR_SN74LXC1T45DRYR':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL16@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214112@RFMC_FRONTEND_V1_00.SN74LXC1T45DRYR_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital16@rfmc_frontend_v1_00.digital(sch_1):ins214112@rfmc_frontend_v1_00.\sn74lxc1t45dryr_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital16@rfmc_frontend_v1_00.digital(sch_1):page19_ins214112@rfmc_frontend_v1_00.\sn74lxc1t45dryr_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,220)',
+ SECTION='';
+
+PART_NAME
+ U12 'SN74LXC1T45DRYR_0_SN74LXC1T45DRYR_SN74LXC1T45DRYR':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL17@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214112@RFMC_FRONTEND_V1_00.SN74LXC1T45DRYR_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital17@rfmc_frontend_v1_00.digital(sch_1):ins214112@rfmc_frontend_v1_00.\sn74lxc1t45dryr_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital17@rfmc_frontend_v1_00.digital(sch_1):page20_ins214112@rfmc_frontend_v1_00.\sn74lxc1t45dryr_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,220)',
+ SECTION='';
+
+PART_NAME
+ U13 'SN74LXC1T45DRYR_0_SN74LXC1T45DRYR_SN74LXC1T45DRYR':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL18@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214112@RFMC_FRONTEND_V1_00.SN74LXC1T45DRYR_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital18@rfmc_frontend_v1_00.digital(sch_1):ins214112@rfmc_frontend_v1_00.\sn74lxc1t45dryr_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital18@rfmc_frontend_v1_00.digital(sch_1):page21_ins214112@rfmc_frontend_v1_00.\sn74lxc1t45dryr_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,220)',
+ SECTION='';
+
+PART_NAME
+ U14 'SN74LXC1T45DRYR_0_SN74LXC1T45DRYR_SN74LXC1T45DRYR':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL19@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214112@RFMC_FRONTEND_V1_00.SN74LXC1T45DRYR_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital19@rfmc_frontend_v1_00.digital(sch_1):ins214112@rfmc_frontend_v1_00.\sn74lxc1t45dryr_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital19@rfmc_frontend_v1_00.digital(sch_1):page22_ins214112@rfmc_frontend_v1_00.\sn74lxc1t45dryr_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,220)',
+ SECTION='';
+
+PART_NAME
+ U15 'SN74LXC1T45DRYR_0_SN74LXC1T45DRYR_SN74LXC1T45DRYR':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL1@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214112@RFMC_FRONTEND_V1_00.SN74LXC1T45DRYR_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital1@rfmc_frontend_v1_00.digital(sch_1):ins214112@rfmc_frontend_v1_00.\sn74lxc1t45dryr_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital1@rfmc_frontend_v1_00.digital(sch_1):page23_ins214112@rfmc_frontend_v1_00.\sn74lxc1t45dryr_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,220)',
+ SECTION='';
+
+PART_NAME
+ U16 'SN74LXC1T45DRYR_0_SN74LXC1T45DRYR_SN74LXC1T45DRYR':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL2@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214112@RFMC_FRONTEND_V1_00.SN74LXC1T45DRYR_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital2@rfmc_frontend_v1_00.digital(sch_1):ins214112@rfmc_frontend_v1_00.\sn74lxc1t45dryr_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital2@rfmc_frontend_v1_00.digital(sch_1):page24_ins214112@rfmc_frontend_v1_00.\sn74lxc1t45dryr_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,220)',
+ SECTION='';
+
+PART_NAME
+ U17 'SN74LXC1T45DRYR_0_SN74LXC1T45DRYR_SN74LXC1T45DRYR':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL34@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214112@RFMC_FRONTEND_V1_00.SN74LXC1T45DRYR_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital34@rfmc_frontend_v1_00.digital(sch_1):ins214112@rfmc_frontend_v1_00.\sn74lxc1t45dryr_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital34@rfmc_frontend_v1_00.digital(sch_1):page25_ins214112@rfmc_frontend_v1_00.\sn74lxc1t45dryr_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,220)',
+ SECTION='';
+
+PART_NAME
+ U18 'SN74LXC1T45DRYR_0_SN74LXC1T45DRYR_SN74LXC1T45DRYR':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL35@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214112@RFMC_FRONTEND_V1_00.SN74LXC1T45DRYR_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital35@rfmc_frontend_v1_00.digital(sch_1):ins214112@rfmc_frontend_v1_00.\sn74lxc1t45dryr_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital35@rfmc_frontend_v1_00.digital(sch_1):page26_ins214112@rfmc_frontend_v1_00.\sn74lxc1t45dryr_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,220)',
+ SECTION='';
+
+PART_NAME
+ U19 'SN74LXC1T45DRYR_0_SN74LXC1T45DRYR_SN74LXC1T45DRYR':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL36@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214112@RFMC_FRONTEND_V1_00.SN74LXC1T45DRYR_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital36@rfmc_frontend_v1_00.digital(sch_1):ins214112@rfmc_frontend_v1_00.\sn74lxc1t45dryr_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital36@rfmc_frontend_v1_00.digital(sch_1):page27_ins214112@rfmc_frontend_v1_00.\sn74lxc1t45dryr_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,220)',
+ SECTION='';
+
+PART_NAME
+ U2 '2541WV-2X15P_N2530-6002-RB_3M_2541WV-2X15P':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS348331@2541WV-2X15P.2541WV-2X15P.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins348331@\2541wv-2x15p\.\2541wv-2x15p.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page3_ins348331@\2541wv-2x15p\.\2541wv-2x15p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(450,30)',
+ SECTION='';
+
+PART_NAME
+ U20 'SN74LXC1T45DRYR_0_SN74LXC1T45DRYR_SN74LXC1T45DRYR':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL37@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214112@RFMC_FRONTEND_V1_00.SN74LXC1T45DRYR_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital37@rfmc_frontend_v1_00.digital(sch_1):ins214112@rfmc_frontend_v1_00.\sn74lxc1t45dryr_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital37@rfmc_frontend_v1_00.digital(sch_1):page28_ins214112@rfmc_frontend_v1_00.\sn74lxc1t45dryr_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,220)',
+ SECTION='';
+
+PART_NAME
+ U21 'SN74LXC1T45DRYR_0_SN74LXC1T45DRYR_SN74LXC1T45DRYR':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL38@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214112@RFMC_FRONTEND_V1_00.SN74LXC1T45DRYR_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital38@rfmc_frontend_v1_00.digital(sch_1):ins214112@rfmc_frontend_v1_00.\sn74lxc1t45dryr_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital38@rfmc_frontend_v1_00.digital(sch_1):page29_ins214112@rfmc_frontend_v1_00.\sn74lxc1t45dryr_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,220)',
+ SECTION='';
+
+PART_NAME
+ U22 'SN74LXC1T45DRYR_0_SN74LXC1T45DRYR_SN74LXC1T45DRYR':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL39@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214112@RFMC_FRONTEND_V1_00.SN74LXC1T45DRYR_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital39@rfmc_frontend_v1_00.digital(sch_1):ins214112@rfmc_frontend_v1_00.\sn74lxc1t45dryr_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital39@rfmc_frontend_v1_00.digital(sch_1):page30_ins214112@rfmc_frontend_v1_00.\sn74lxc1t45dryr_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,220)',
+ SECTION='';
+
+PART_NAME
+ U23 'PIN3BOOMELE_PIN3BOOMELE_PIN3BOOMELE':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):SPI0@RFMC_FRONTEND_V1_00.SPI(SCH_1):INS362835@PIN3BOOMELE.PIN3BOOMELE.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):spi0@rfmc_frontend_v1_00.spi(sch_1):ins362835@pin3boomele.\pin3boomele.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_spi0@rfmc_frontend_v1_00.spi(sch_1):page31_ins362835@pin3boomele.\pin3boomele.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(320,110)',
+ SECTION='';
+
+PART_NAME
+ U24 'PIN3BOOMELE_PIN3BOOMELE_PIN3BOOMELE':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):SPI1@RFMC_FRONTEND_V1_00.SPI(SCH_1):INS362835@PIN3BOOMELE.PIN3BOOMELE.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):spi1@rfmc_frontend_v1_00.spi(sch_1):ins362835@pin3boomele.\pin3boomele.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_spi1@rfmc_frontend_v1_00.spi(sch_1):page32_ins362835@pin3boomele.\pin3boomele.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(320,110)',
+ SECTION='';
+
+PART_NAME
+ U25 'PIN3BOOMELE_PIN3BOOMELE_PIN3BOOMELE':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):SPI2@RFMC_FRONTEND_V1_00.SPI(SCH_1):INS362835@PIN3BOOMELE.PIN3BOOMELE.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):spi2@rfmc_frontend_v1_00.spi(sch_1):ins362835@pin3boomele.\pin3boomele.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_spi2@rfmc_frontend_v1_00.spi(sch_1):page33_ins362835@pin3boomele.\pin3boomele.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(320,110)',
+ SECTION='';
+
+PART_NAME
+ U26 'PIN3BOOMELE_PIN3BOOMELE_PIN3BOOMELE':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):SPI3@RFMC_FRONTEND_V1_00.SPI(SCH_1):INS362835@PIN3BOOMELE.PIN3BOOMELE.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):spi3@rfmc_frontend_v1_00.spi(sch_1):ins362835@pin3boomele.\pin3boomele.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_spi3@rfmc_frontend_v1_00.spi(sch_1):page34_ins362835@pin3boomele.\pin3boomele.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(320,110)',
+ SECTION='';
+
+PART_NAME
+ U27 'PIN3BOOMELE_PIN3BOOMELE_PIN3BOOMELE':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):SPI4@RFMC_FRONTEND_V1_00.SPI(SCH_1):INS362835@PIN3BOOMELE.PIN3BOOMELE.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):spi4@rfmc_frontend_v1_00.spi(sch_1):ins362835@pin3boomele.\pin3boomele.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_spi4@rfmc_frontend_v1_00.spi(sch_1):page35_ins362835@pin3boomele.\pin3boomele.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(320,110)',
+ SECTION='';
+
+PART_NAME
+ U28 'PIN3BOOMELE_PIN3BOOMELE_PIN3BOOMELE':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):SPI5@RFMC_FRONTEND_V1_00.SPI(SCH_1):INS362835@PIN3BOOMELE.PIN3BOOMELE.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):spi5@rfmc_frontend_v1_00.spi(sch_1):ins362835@pin3boomele.\pin3boomele.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_spi5@rfmc_frontend_v1_00.spi(sch_1):page36_ins362835@pin3boomele.\pin3boomele.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(320,110)',
+ SECTION='';
+
+PART_NAME
+ U3 'PIN3BOOMELE_PIN3BOOMELE_PIN3BOOMELE':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS407770@PIN3BOOMELE.PIN3BOOMELE.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins407770@pin3boomele.\pin3boomele.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_ins407770@pin3boomele.\pin3boomele.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,50)',
+ SECTION='';
+
+PART_NAME
+ U4 'PIN3BOOMELE_PIN3BOOMELE_PIN3BOOMELE':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS411595@PIN3BOOMELE.PIN3BOOMELE.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins411595@pin3boomele.\pin3boomele.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_ins411595@pin3boomele.\pin3boomele.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,230)',
+ SECTION='';
+
+PART_NAME
+ U5 'PIN3BOOMELE_PIN3BOOMELE_PIN3BOOMELE':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS411492@PIN3BOOMELE.PIN3BOOMELE.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins411492@pin3boomele.\pin3boomele.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_ins411492@pin3boomele.\pin3boomele.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,500)',
+ SECTION='';
+
+PART_NAME
+ U6 'PIN3BOOMELE_PIN3BOOMELE_PIN3BOOMELE':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):INS407872@PIN3BOOMELE.PIN3BOOMELE.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):ins407872@pin3boomele.\pin3boomele.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_ins407872@pin3boomele.\pin3boomele.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,500)',
+ SECTION='';
+
+PART_NAME
+ U7 'SN74LXC1T45DRYR_0_SN74LXC1T45DRYR_SN74LXC1T45DRYR':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL12@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214112@RFMC_FRONTEND_V1_00.SN74LXC1T45DRYR_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital12@rfmc_frontend_v1_00.digital(sch_1):ins214112@rfmc_frontend_v1_00.\sn74lxc1t45dryr_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital12@rfmc_frontend_v1_00.digital(sch_1):page15_ins214112@rfmc_frontend_v1_00.\sn74lxc1t45dryr_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,220)',
+ SECTION='';
+
+PART_NAME
+ U8 'SN74LXC1T45DRYR_0_SN74LXC1T45DRYR_SN74LXC1T45DRYR':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL13@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214112@RFMC_FRONTEND_V1_00.SN74LXC1T45DRYR_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital13@rfmc_frontend_v1_00.digital(sch_1):ins214112@rfmc_frontend_v1_00.\sn74lxc1t45dryr_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital13@rfmc_frontend_v1_00.digital(sch_1):page16_ins214112@rfmc_frontend_v1_00.\sn74lxc1t45dryr_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,220)',
+ SECTION='';
+
+PART_NAME
+ U9 'SN74LXC1T45DRYR_0_SN74LXC1T45DRYR_SN74LXC1T45DRYR':;
+
+SECTION_NUMBER 1
+ '@RFMC_FRONTEND_V1_00.TOP(SCH_1):DIGITAL14@RFMC_FRONTEND_V1_00.DIGITAL(SCH_1):INS214112@RFMC_FRONTEND_V1_00.SN74LXC1T45DRYR_0.NORMAL(CHIPS)':
+ C_PATH='@rfmc_frontend_v1_00.top(sch_1):digital14@rfmc_frontend_v1_00.digital(sch_1):ins214112@rfmc_frontend_v1_00.\sn74lxc1t45dryr_0.normal\(chips)',
+ P_PATH='@rfmc_frontend_v1_00.top(sch_1):page4_digital14@rfmc_frontend_v1_00.digital(sch_1):page17_ins214112@rfmc_frontend_v1_00.\sn74lxc1t45dryr_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,220)',
+ SECTION='';
+
+END.

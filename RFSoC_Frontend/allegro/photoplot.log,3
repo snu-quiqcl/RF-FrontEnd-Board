@@ -1,0 +1,642 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : rfmc_frontend_v1_00.brd                       )
+(    Software Version : 24.1P001                                      )
+(    Date/Time        : Sat Jan  4 15:50:21 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/Jeonghyun/Lab/RFSoC_Frontend16/allegro/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00685                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02409                                  DARK 
+  CIRCLE     0.05709                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.07870                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.25000                                  DARK 
+  SQUARE     0.06500                     0.000 NO     DARK 
+  SQUARE     0.07000                     0.000 NO     DARK 
+  RECTANGLE  0.00787     x 0.03150       0.000 NO     DARK 
+  RECTANGLE  0.00787     x 0.03150      90.000 NO     DARK 
+  RECTANGLE  0.00984     x 0.01378       0.000 NO     DARK 
+  RECTANGLE  0.01378     x 0.03937       0.000 NO     DARK 
+  RECTANGLE  0.01378     x 0.03937      90.000 NO     DARK 
+  RECTANGLE  0.01870     x 0.01969       0.000 NO     DARK 
+  RECTANGLE  0.01870     x 0.01969      90.000 NO     DARK 
+  RECTANGLE  0.02362     x 0.02126       0.000 NO     DARK 
+  RECTANGLE  0.02362     x 0.02126      90.000 NO     DARK 
+  RECTANGLE  0.02362     x 0.02441      90.000 NO     DARK 
+  RECTANGLE  0.02717     x 0.02835      90.000 NO     DARK 
+  RECTANGLE  0.02992     x 0.06496       0.000 NO     DARK 
+  RECTANGLE  0.03701     x 0.05630      90.000 NO     DARK 
+  RECTANGLE  0.03819     x 0.05787      90.000 NO     DARK 
+  RECTANGLE  0.06300     x 0.09210      90.000 NO     DARK 
+  OBLONG     0.02760     x 0.01100      90.000 NO     DARK 
+
+     TOP created.
+
+
+================================================================
+     PROCESSING FILM < L2 >
+     TO FILE < C:/Jeonghyun/Lab/RFSoC_Frontend16/allegro/L2.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00524                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.05709                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.07870                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.25000                                  DARK 
+  SQUARE     0.06500                     0.000 NO     DARK 
+  SQUARE     0.07000                     0.000 NO     DARK 
+
+     L2 created.
+
+
+================================================================
+     PROCESSING FILM < L3 >
+     TO FILE < C:/Jeonghyun/Lab/RFSoC_Frontend16/allegro/L3.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00471                                  DARK 
+  CIRCLE     0.00665                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.05709                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.07870                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.25000                                  DARK 
+  SQUARE     0.06500                     0.000 NO     DARK 
+  SQUARE     0.07000                     0.000 NO     DARK 
+
+     L3 created.
+
+
+================================================================
+     PROCESSING FILM < L4 >
+     TO FILE < C:/Jeonghyun/Lab/RFSoC_Frontend16/allegro/L4.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00665                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.05709                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.07870                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.25000                                  DARK 
+  SQUARE     0.06500                     0.000 NO     DARK 
+  SQUARE     0.07000                     0.000 NO     DARK 
+
+     L4 created.
+
+
+================================================================
+     PROCESSING FILM < L5 >
+     TO FILE < C:/Jeonghyun/Lab/RFSoC_Frontend16/allegro/L5.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00665                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.05709                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.07870                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.25000                                  DARK 
+  SQUARE     0.06500                     0.000 NO     DARK 
+  SQUARE     0.07000                     0.000 NO     DARK 
+
+     L5 created.
+
+
+================================================================
+     PROCESSING FILM < L6 >
+     TO FILE < C:/Jeonghyun/Lab/RFSoC_Frontend16/allegro/L6.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00665                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.05709                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.07870                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.25000                                  DARK 
+  SQUARE     0.06500                     0.000 NO     DARK 
+  SQUARE     0.07000                     0.000 NO     DARK 
+
+     L6 created.
+
+
+================================================================
+     PROCESSING FILM < L7 >
+     TO FILE < C:/Jeonghyun/Lab/RFSoC_Frontend16/allegro/L7.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00524                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.05709                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.07870                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.25000                                  DARK 
+  SQUARE     0.06500                     0.000 NO     DARK 
+  SQUARE     0.07000                     0.000 NO     DARK 
+
+     L7 created.
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/Jeonghyun/Lab/RFSoC_Frontend16/allegro/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00685                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02520                                  DARK 
+  CIRCLE     0.05709                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.07870                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.25000                                  DARK 
+  SQUARE     0.06500                     0.000 NO     DARK 
+  SQUARE     0.07000                     0.000 NO     DARK 
+
+     BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < DRILL >
+     TO FILE < C:/Jeonghyun/Lab/RFSoC_Frontend16/allegro/DRILL.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: rectangle or unfilled shape composed 0 width line found at (-400.00 6077.75) in MIL
+           ... ignored.
+
+    WARNING: rectangle or unfilled shape having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+    WARNING: 0 width line found at (5346.00 3221.75) in MIL
+           ... ignored.
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+    WARNING: text composed 0 width line found at (5795.50 5815.50) in MIL
+           ... ignored.
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+
+
+  APERTURES USED:  NONE
+     DRILL created with warnings
+
+
+================================================================
+     PROCESSING FILM < Board_Outline >
+     TO FILE < C:/Jeonghyun/Lab/RFSoC_Frontend16/allegro/Board_Outline.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     Board_Outline created.
+
+
+================================================================
+     PROCESSING FILM < Soldermask_TOP >
+     TO FILE < C:/Jeonghyun/Lab/RFSoC_Frontend16/allegro/Soldermask_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02409                                  DARK 
+  CIRCLE     0.05709                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.07870                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.25000                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+  SQUARE     0.06500                     0.000 NO     DARK 
+  SQUARE     0.07000                     0.000 NO     DARK 
+  RECTANGLE  0.00787     x 0.03150       0.000 NO     DARK 
+  RECTANGLE  0.00787     x 0.03150      90.000 NO     DARK 
+  RECTANGLE  0.00984     x 0.01378       0.000 NO     DARK 
+  RECTANGLE  0.01378     x 0.03937       0.000 NO     DARK 
+  RECTANGLE  0.01378     x 0.03937      90.000 NO     DARK 
+  RECTANGLE  0.01870     x 0.01969       0.000 NO     DARK 
+  RECTANGLE  0.01870     x 0.01969      90.000 NO     DARK 
+  RECTANGLE  0.02362     x 0.02441      90.000 NO     DARK 
+  RECTANGLE  0.02717     x 0.02835      90.000 NO     DARK 
+  RECTANGLE  0.02992     x 0.06496       0.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.02913       0.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.02913      90.000 NO     DARK 
+  RECTANGLE  0.03701     x 0.05630      90.000 NO     DARK 
+  RECTANGLE  0.03819     x 0.05787      90.000 NO     DARK 
+  RECTANGLE  0.06300     x 0.09210      90.000 NO     DARK 
+  OBLONG     0.02760     x 0.01100      90.000 NO     DARK 
+
+     Soldermask_TOP created.
+
+
+================================================================
+     PROCESSING FILM < Soldermask_BOTTOM >
+     TO FILE < C:/Jeonghyun/Lab/RFSoC_Frontend16/allegro/Soldermask_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02520                                  DARK 
+  CIRCLE     0.05709                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.07870                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  CIRCLE     0.25000                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+  SQUARE     0.06500                     0.000 NO     DARK 
+  SQUARE     0.07000                     0.000 NO     DARK 
+
+     Soldermask_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < Pastemask_TOP >
+     TO FILE < C:/Jeonghyun/Lab/RFSoC_Frontend16/allegro/Pastemask_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02409                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  RECTANGLE  0.00787     x 0.03150       0.000 NO     DARK 
+  RECTANGLE  0.00787     x 0.03150      90.000 NO     DARK 
+  RECTANGLE  0.00984     x 0.01378       0.000 NO     DARK 
+  RECTANGLE  0.01378     x 0.03937       0.000 NO     DARK 
+  RECTANGLE  0.01378     x 0.03937      90.000 NO     DARK 
+  RECTANGLE  0.01870     x 0.01969       0.000 NO     DARK 
+  RECTANGLE  0.01870     x 0.01969      90.000 NO     DARK 
+  RECTANGLE  0.02362     x 0.02126       0.000 NO     DARK 
+  RECTANGLE  0.02362     x 0.02126      90.000 NO     DARK 
+  RECTANGLE  0.02362     x 0.02441      90.000 NO     DARK 
+  RECTANGLE  0.02717     x 0.02835      90.000 NO     DARK 
+  RECTANGLE  0.02992     x 0.06496       0.000 NO     DARK 
+  RECTANGLE  0.03701     x 0.05630      90.000 NO     DARK 
+  RECTANGLE  0.03819     x 0.05787      90.000 NO     DARK 
+  RECTANGLE  0.06300     x 0.09210      90.000 NO     DARK 
+  OBLONG     0.02760     x 0.01100      90.000 NO     DARK 
+
+     Pastemask_TOP created.
+
+
+================================================================
+     PROCESSING FILM < Pastemask_BOTTOM >
+     TO FILE < C:/Jeonghyun/Lab/RFSoC_Frontend16/allegro/Pastemask_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02520                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+
+     Pastemask_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < Silkscreen_TOP >
+     TO FILE < C:/Jeonghyun/Lab/RFSoC_Frontend16/allegro/Silkscreen_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.00 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00197                                  DARK 
+  CIRCLE     0.00310                                  DARK 
+  CIRCLE     0.00390                                  DARK 
+  CIRCLE     0.00394                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.00790                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.00984                                  DARK 
+
+     Silkscreen_TOP created.
+
+
+================================================================
+     PROCESSING FILM < Silkscreen_BOTTOM >
+     TO FILE < C:/Jeonghyun/Lab/RFSoC_Frontend16/allegro/Silkscreen_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                6.00 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+
+     Silkscreen_BOTTOM created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created.
+        L2 created.
+        L3 created.
+        L4 created.
+        L5 created.
+        L6 created.
+        L7 created.
+        BOTTOM created.
+        DRILL created with warnings
+        Board_Outline created.
+        Soldermask_TOP created.
+        Soldermask_BOTTOM created.
+        Pastemask_TOP created.
+        Pastemask_BOTTOM created.
+        Silkscreen_TOP created.
+        Silkscreen_BOTTOM created.
+
+ ARTWORK had warnings
